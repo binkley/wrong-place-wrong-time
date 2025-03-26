@@ -1,4 +1,4 @@
-Creative Commons Legal Code
+# Creative Commons Public Domain Dedication
 
 CC0 1.0 Universal
 
@@ -119,3 +119,7 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
+
+For more information, please refer to
+<https://creativecommons.org/publicdomain/zero/1.0/> and to
+<https://creativecommons.org/public-domain/cc0/>.
