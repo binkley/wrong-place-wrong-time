@@ -55,7 +55,7 @@ The plot has multiple points of optionality: what happens next is up to player c
 ---
 ## For the Actor-Manager
 
-### The Cast yet Unseen (For the Actor-Manager)
+### Among your many roles
 
 - **One-Eyed Jukk** — Rogue fence operating from the Bloody Fist tavern.
 - **Knickknack** — Goblin gang leader, clever and conniving.
