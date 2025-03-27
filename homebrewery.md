@@ -26,15 +26,15 @@ The plot has multiple points of optionality: what happens next is up to player c
 
 ---
 
-## Dramatis Personae
+## _Dramatis Personae_
 
-- **Gaffard** — A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, a skald from the Spine of the World. Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- **The Fey Pouncer** — A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s apprentice. Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
-- **One-Eyed Jukk** — Rogue fence operating from the Bloody Fist tavern.
-- **Knickknack** — Goblin gang leader, clever and conniving.
-- **Minion** — Thug disguised as a tall human male (bugbear, kenku, or gazer stats) wearing a Hat of Improved Disguise.
-- **City Watch** — Blades (constables), Sword (sergeant), and Swordcaptain (lieutenant).
-- **Others** — Gnome street beggar, washerwoman, Aldym Gedreghost (Fey Pouncer’s late master)
+### Players
+- **Gaffard** — A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, a skald from the _Spine of the World_. Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
+- **The Fey Pouncer** — A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s apprentice. Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche). Born (he thinks) in far Halagard, in the Shining South, and fled following unfortunate events.
+
+### Actor-Manager
+- **City Watch** — The official keepers of the peace in Waterdeep. Uniformed, orderly, and never far away. Blades serve as constables, led by Swords and Swordcaptains. Their tone can vary — some fair, some brusque, but all with authority.
+- **Laeral Silverhand** — Open Lord of Waterdeep, spoken of in reverent tones. A tall, silver-haired woman whose gaze seems to hold both youth and centuries. She appears rarely, but when she does, the Watch stands straighter. Said to walk unseen when it suits her, and to treasure what others might overlook.
 
 ---
 
@@ -51,6 +51,16 @@ The plot has multiple points of optionality: what happens next is up to player c
 
 > #### Three Pearls Nightclub
 > *Nearby festhall known for raucous burlesque.*
+
+---
+## For the Actor-Manager
+
+### The Cast yet Unseen (For the Actor-Manager)
+
+- **One-Eyed Jukk** — Rogue fence operating from the Bloody Fist tavern.
+- **Knickknack** — Goblin gang leader, clever and conniving.
+- **Minion** (choose form) — A thug disguised as a tall human male (bugbear, kenku, or gazer stats) wearing a Hat of Improved Disguise.
+- **Others** — Gnome street beggar, washerwoman, Aldym Gedreghost (Fey Pouncer’s late master)
 
 ---
 ## Act I — A Night on the Town, or The Catalyst
