@@ -13,3 +13,21 @@ align="right" width="10%" height="auto"/>
 <i>based on</i> Fafhrd <i>and</i> The Gray Mouser<br>
 <i>in Three Acts set in Waterdeep,</i> the City of Splendors
 </p>
+
+## Player characters
+
+- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) — A 1st-level
+   Human Barbarian (Uthgardt Tribe Member), towering and fair, and a skald
+   from the _Spine of the World_ who left his mother's overbearing thumb. <br>
+   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) — Ao
+   1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
+   apprentice.
+   Born (he thinks) in far Halagard, in the Shining South, and fled following
+   unfortunate events. <br>
+   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
+
+## Use this repository
+
+Take advantage of [Homebrewery](https://homebrewery.naturalcrit.com/) to
+preview [this adventure as Markdown](./homebrewery.md), and to save as PDF.

@@ -29,9 +29,8 @@ The plot has multiple points of optionality: what happens next is up to player c
 ## _Dramatis Personae_
 
 ### Players
-- **Gaffard** — A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, a skald from the _Spine of the World_. Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- **The Fey Pouncer** — A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s apprentice. Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche). Born (he thinks) in far Halagard, in the Shining South, and fled following unfortunate events.
-
+- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) — A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and a skald from the _Spine of the World_ who left his mother's overbearing thumb. <br> Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) — A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled following unfortunate events. <br> Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 ### Actor-Manager
 - **City Watch** — The official keepers of the peace in Waterdeep. Uniformed, orderly, and never far away. Blades serve as constables, led by Swords and Swordcaptains. Their tone can vary — some fair, some brusque, but all with authority.
 - **Laeral Silverhand** — Open Lord of Waterdeep, spoken of in reverent tones. A tall, silver-haired woman whose gaze seems to hold both youth and centuries. She appears rarely, but when she does, the Watch stands straighter. Said to walk unseen when it suits her, and to treasure what others might overlook.
