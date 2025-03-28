@@ -1,4 +1,9 @@
 # Wrong Place, Wrong Time
+<!--
+Do not word wrap here, and keep the 'A' on a separate line:
+- This puts the 'A' in dropcase and wraps the rest of the title around it
+- Breaking the long title line causes format changes when rendered
+-->
 A
 > ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
 
