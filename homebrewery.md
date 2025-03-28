@@ -327,6 +327,78 @@ Regardless of outcome:
 - **Kenku**: Ambusher, mimicry, flees fast
 - **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
 
+{{note
+> #### Mrs. Hattrick, Landlady of Dust Alley
+
+**Medium humanoid (half-elf), neutral**
+
+---
+
+**Armor Class** 12 (comfortable, practical clothing)  
+**Hit Points** 9 (2d8)  
+**Speed** 30 ft.  
+
+---
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) | 15 (+2) |
+
+---
+
+**Skills**: Insight +4, Persuasion +4, Perception +4  
+**Senses**: Passive Perception 14  
+**Languages**: Common, Elvish
+
+---
+
+**Challenge**: 1/8 (50 XP)
+
+---
+
+### Traits
+
+**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice discrepancies in behavior, such as **uneven rent payments** or **suspicious comings and goings**. She has advantage on Insight checks to detect **deception** or **suspicious activity** in her tenants.
+
+**Persistent Reminder**. Mrs. Hattrick is always **checking up on her tenants**, and once a day, she will remind them about their **rent**. If rent is **late** for two consecutive days, she becomes **uncooperative** and may take actions to **pressure** tenants.
+
+**Nosey Neighbor**. Mrs. Hattrick can be **invasive**, and if the players let their guard down, she may try to **pry into their affairs**. She has disadvantage on Charisma (Deception) checks against those she has already observed for a prolonged period of time.
+
+### Actions
+
+**A Well-Timed Remark**. Mrs. Hattrick interrupts a conversation or action with an **unwanted opinion**, causing a creature within 30 feet of her to make a DC 13 Wisdom saving throw. On a failed save, the creature has **disadvantage** on its next check or attack roll against anyone other than Mrs. Hattrick.
+
+**Persistent Questioning**. Mrs. Hattrick asks a series of **invasive questions**. One creature within 10 feet must succeed on a DC 14 Charisma saving throw or be **charmed** by her for 1 minute. While charmed, the creature is compelled to **answer her questions** truthfully, including questions about personal details. Once the effect ends, the creature can attempt to deceive her if it wishes.
+
+---
+
+### Reactions
+
+**"A Little Help Never Hurts"**. If Mrs. Hattrick notices the players struggling or in trouble, she will try to **offer unsolicited advice** that often doesn't help, but can create opportunities for **roleplay**. Once per day, she may provide a small **tidbit of gossip** or helpful observation that leads to a future plot hook (such as local rumors or a missing object).
+
+---
+
+### Equipment
+
+Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenants’ **rent payments**, and a **small knitting kit** for personal use, which she’s always fiddling with when she’s idle.
+
+---
+
+### Personality
+
+- **Motivated by Efficiency**: Always looking to ensure everything is in order, especially when it comes to **rent payments**.
+- **Charming**: While intrusive, Mrs. Hattrick can be surprisingly **charming** when needed, using her **charm** to get people to open up.
+- **Unaware**: Often unaware of how **overbearing** she is; her actions are motivated by genuine concern but come off as condescending or humorous.
+
+---
+
+### Notes
+
+- **Voice**: Mrs. Hattrick's voice is **shrill** when discussing **rules** but softens when offering personal advice.
+- **Mannerisms**: She often **fiddles with her glasses** and can be seen **writing notes** in her book while observing her tenants.
+- **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken, leading to lighthearted and humorous interactions.
+}}
+
 ---
 
 ### Appendix B: Magic Items
