@@ -20,7 +20,7 @@ align="right" width="10%" height="auto"/>
    Human Barbarian (Uthgardt Tribe Member), towering and fair, and a skald
    from the _Spine of the World_ who left his mother's overbearing thumb. <br>
    Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) — Ao
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) — A
    1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
    apprentice.
    Born (he thinks) in far Halagard, in the Shining South, and fled following
