@@ -1,6 +1,6 @@
 # Wrong Place, Wrong Time
 A
-> ### Thrilling and Dangerous Two-Player One-shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts set in Waterdeep, the _City of Splendor_
+> ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
 
 ## Introduction for Players
 
