@@ -7,6 +7,30 @@ Do not word wrap here, and keep the 'A' on a separate line:
 A
 > ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
 
+## Introduction
+
+Welcome to _Wrong Place, Wrong Time_! Hail, and well met.
+
+This adventure draws inspiration from the legendary stories of **Fritz
+Leiber’s Fafhrd and the Gray Mouser**, and from the world of _Faerûn_, a
+campaign setting for D&amp;D 5e.
+You play the roles of **Gaffard**, a youthful barbarian from the icy wilds of
+the **Spine of the World**, and **The Fey Pouncer**, a subtle rogue from the
+far south, and adventure in **Waterdeep**, the _City of Splendors_.
+
+## Setting
+
+Within **Waterdeep’s** bustling **Dock Ward**, your heroes encounter danger,
+intrigue, and reward.
+
+Blending classic fantasy with city street gritty noir, you are fast friends
+alone in a new, sprawling city, and might encounter fights or opportunities.
+
+In this crossover, you’re playing as characters well-known in **Nehwon**, the
+world of Leiber’s creation, set in **Faerûn** for an adventure that promises
+danger, deception, and the new and unexpected.
+
+
 ## Introduction for Players
 
 Built atop a vast plateau along the northern Sword Coast, Waterdeep is a
@@ -72,8 +96,8 @@ the players guide.
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 
 ### Actor-Manager
-- **One-Eyed Jukk** &mdash; A fence who bases his "operation" in the Bloody Fist
-  tavern.
+- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
+  fence who bases his "operation" in the _Bloody Fist_ tavern.
   He is human, and popular with the those wishing to unburden themselves of
   weapons and armor.
   He seems mostly harmless.
