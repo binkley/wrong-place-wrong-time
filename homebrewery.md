@@ -327,6 +327,8 @@ Regardless of outcome:
 - **Kenku**: Ambusher, mimicry, flees fast
 - **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
 
+\page
+
 {{note
 > #### Mrs. Hattrick, Landlady of Dust Alley
 
@@ -382,7 +384,7 @@ Regardless of outcome:
 
 Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenantsâ€™ **rent payments**, and a **small knitting kit** for personal use, which sheâ€™s always fiddling with when sheâ€™s idle.
 
----
+\column
 
 ### Personality
 
@@ -399,7 +401,7 @@ Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenantsâ
 - **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken, leading to lighthearted and humorous interactions.
 }}
 
----
+\page
 
 ### Appendix B: Magic Items
 
@@ -412,7 +414,7 @@ Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenantsâ
 - Once per day, fills with one pint of fine ale
 - Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
 
----
+\page
 
 ### Appendix C: Gaffard &amp; Fey Pouncer Summary
 
@@ -428,7 +430,7 @@ Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenantsâ
 - Familiar: Spider, lives in cloak folds
 - Items: *Scalpel*, *Catâ€™s Claw*, lockpicks, gray hood of mouse fur
 
----
+\page
 
 ### Appendix D: Optional Map Reference
 
