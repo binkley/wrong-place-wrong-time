@@ -21,7 +21,7 @@ dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
 and all manner of ruffians and ne’er-do-wells. Much of the poor live here,
 victims and villains alike. Warehouses, poorhouses and tenements dominate. The
 streets are steep and narrow; signs or guideposts are rare but you know your
-way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley—a bolthole
+way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a bolthole
 good enough for your needs.
 
 Everything is muddy or wet from the late afternoon rain, and through clouds a
@@ -29,7 +29,7 @@ low, waning, gibbous moon shines pale yellow somewhat illuminating the street.
 A good night to spend in a festhall or tavern or both. After enjoying Three
 Pearls Nightclub (and some burlesque), it is after midnight, and you continue
 to the Bloody Fist about a block from the festhall and across Snail Street.
-One-Eyed Jukk—a popular fence for armor and weapons—hawks his wares, but even
+One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his wares, but even
 at his “low, low” prices, it is too rich for you.
 
 > #### What do you do?
@@ -38,7 +38,7 @@ Later still in the wee hours, and both a little tipsy, you step out onto Snail
 Street to head back home while pulling up your cloaks against the cold damp. A
 Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
 for “a little coin for my poor mother”. As you regard the seeming vagrant, two
-hooded figures—one quite tall, one quite short—rush past you down the street
+hooded figures&mdash;one quite tall, one quite short&mdash;rush past you down the street
 toward the docks; their faces are hidden, but they leave an impression in your
 mind. You spot the shorter one tossing something small and dark against a
 nearby recessed doorway.
@@ -47,12 +47,12 @@ nearby recessed doorway.
 
 ## To the Actor-Manager
 
-You, the DM, are the **actor-manager** — a role drawn from the stages of old.
+You, the DM, are the **actor-manager** &mdash; a role drawn from the stages of old.
 You portray the characters who cross paths with **Gaffard** and **The Fey
 Pouncer**, and direct the movement through the Acts.
 
 The plot has multiple points of optionality: what happens next is up to player
-choices. Many of the scenes are optional, or alternative to each other — let
+choices. Many of the scenes are optional, or alternative to each other &mdash; let
 the players guide.
 
 ---
@@ -60,27 +60,29 @@ the players guide.
 ## _Dramatis Personae_
 
 ### Players
-- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) — A 1st-level
-  Human Barbarian (Uthgardt Tribe Member), towering and fair, and a skald from
-  the _Spine of the World_ who left his mother's overbearing thumb. <br>
+- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; the hapless hero <br>
+  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and a
+  skald from the _Spine of the World_ who left his mother's overbearing thumb.
+  <br>
   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) — A
-  1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) &mdash; the plucky rake <br>
+  A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
   apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
   following unfortunate events. <br>
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 
 ### Actor-Manager
-- **One-Eyed Jukk** — A fence who bases his "operation" in the Bloody Fist
+- **One-Eyed Jukk** &mdash; A fence who bases his "operation" in the Bloody Fist
   tavern.
   He is human, and popular with the those wishing to unburden themselves of
   weapons and armor.
   He seems mostly harmless.
-- **City Watch** — The official keepers of the peace in Waterdeep.
+- **City Watch** &mdash; The official keepers of the peace in Waterdeep.
   Uniformed, orderly, and never far away.
   Blades serve as constables, led by Swords and Swordcaptains.
-  Their tone can vary — some fair, some brusque, but all with authority.
-- **Laeral Silverhand** — Open Lord of Waterdeep, spoken of in reverent tones.
+  Their tone can vary &mdash; some fair, some brusque, but all with authority.
+- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in reverent
+  tones.
   A tall, silver-haired woman whose gaze seems to hold both youth and
   centuries.
   She appears rarely, but when she does, the Watch stands straighter.
@@ -111,23 +113,23 @@ the players guide.
 
 - **City Watch**
 - **One-Eyed Jukk**
-- **Knickknack** — Goblin gang leader, clever and conniving.
-- **Minion** (choose form) — A thug disguised as a tall human male (bugbear,
-  Kenku, or Gazer stats) wearing a Hat of Improved Disguise.
+- **Knickknack** &mdash; Goblin gang leader, clever and conniving.
+- **Minion** (choose form) &mdash; A thug disguised as a tall human male
+  (Bugbear, Kenku, or Gazer stats) wearing a Hat of Improved Disguise.
 - **Laeral Silverhand**
-- **Others** — Gnome street beggar, washerwoman, Aldym Gedreghost (Fey
+- **Others** &mdash; Gnome street beggar, washerwoman, Aldym Gedreghost (Fey
   Pouncer’s late master)
 
 \page
 
-## Act I — A Night on the Town, or The Catalyst
+## Act I &mdash; A Night on the Town, or The Catalyst
 
-**Scene 1 — Midnight on Snail Street**
+**Scene 1 &mdash; Midnight on Snail Street**
 
 > It is after midnight, and the streets are slick from the late rain. Gaffard
 > and the Fey Pouncer, tipsy and cloaked, leave the Three Pearls nightclub. A
 > gnome child in rags asks for coin. Two hooded figures rush past, one tall,
-> one short, vanishing into the shadows — one tosses a dark bundle into a
+> one short, vanishing into the shadows &mdash; one tosses a dark bundle into a
 > recessed doorway.
 >
 > Suddenly: <br>
@@ -136,7 +138,7 @@ the players guide.
 **Optional Check**: The Fey Pouncer may later use *Keen Mind* to recall their
 faces.
 
-**Scene 2 — Imprisonment**
+**Scene 2 &mdash; Imprisonment**
 
 The characters are quickly surrounded by the City Watch. Combat is hopeless.
 They are stripped of gear and tossed into a single jail cell.
@@ -150,7 +152,7 @@ They are stripped of gear and tossed into a single jail cell.
 - *Strength DC 20* to break door (loud)
 - Call for guard: after 2 turns, one appears
 
-**Scene 3 — Escape**
+**Scene 3 &mdash; Escape**
 
 Gear is stored in an unlocked room. They may be tempted to steal more (note:
 doing so affects ending). A secret passage (DC 15 Investigation or Perception)
@@ -158,16 +160,16 @@ leads to the alley behind the jail. Watch patrols may still be close by.
 
 \page
 
-## Act II — The Game is Afoot, or The Rising Action
+## Act II &mdash; The Game is Afoot, or The Rising Action
 
 Scenes may occur in any order:
 
-**Scene 1 — The Street Beggar**
+**Scene 1 &mdash; The Street Beggar**
 
 A suspicious gnome in rags (wearing padded armor). Acts cagey. Can be
 intimidated (DC 10) into revealing he saw something tossed into a doorway.
 
-**Scene 2 — The Washerwoman**
+**Scene 2 &mdash; The Washerwoman**
 
 The players return to the recessed doorway and find a 1" square of black
 oilcloth. A trail of muddy footprints leads 15 feet south into Shrimp Alley
@@ -176,19 +178,19 @@ before vanishing into a puddle.
 Knocking on the door reveals a squalid tenement. Inside is a tired woman,
 evasive and poor, who eyes the characters with distrust.
 
-**Scene 3 — One-Eyed Jukk**
+**Scene 3 &mdash; One-Eyed Jukk**
 
 Inside the Bloody Fist, One-Eyed Jukk is asleep and drunk. If woken, he gives
-confused and mostly useless answers — but warns them:
+confused and mostly useless answers &mdash; but warns them:
 
-> “Dock Ward’s not safe — one gang takes your purse, the other your head.”
+> “Dock Ward’s not safe &mdash; one gang takes your purse, the other your head.”
 
-**Scene 4 — Watch Patrol**
+**Scene 4 &mdash; Watch Patrol**
 
 A City Watch patrol passes through nearby streets. If spotted, the players may
 be recaptured unless they hide, flee, or disguise themselves.
 
-**Scene 5 — The Real Culprits**
+**Scene 5 &mdash; The Real Culprits**
 
 The players see the same tall and short figures again, moving through the Dock
 Ward. Fey Pouncer can use *Keen Mind* to confirm they match the ones from
@@ -209,14 +211,14 @@ Combat encounter: **Knickknack** and her **Minion**. The players get
 
 \page
 
-## Act III — All’s Well That Ends Well, or The Denouement
+## Act III &mdash; All’s Well That Ends Well, or The Denouement
 
-The outcome depends on the players’ choices — and whether they stole from the
+The outcome depends on the players’ choices &mdash; and whether they stole from the
 City Watch.
 
 ---
 
-### **Outcome 1 — Heroes of the Hour**
+### **Outcome 1 &mdash; Heroes of the Hour**
 
 If the players:
 - Escaped cleanly without stealing
@@ -225,13 +227,13 @@ If the players:
 
 Then:
 
-> **Laeral Silverhand**, the Open Lord of Waterdeep, appears — a tall, robed
+> **Laeral Silverhand**, the Open Lord of Waterdeep, appears &mdash; a tall, robed
 > figure with long silver hair, seeming both young and old. The guards behave
 > reverently.
 >
 > She sees the black rock and says: <br>
 
-> “It is Ahghairon’s stone. Yes, just a rock — but our rock. We must not
+> “It is Ahghairon’s stone. Yes, just a rock &mdash; but our rock. We must not
 > forget our origins.”
 
 She offers thanks, and:
@@ -244,7 +246,7 @@ She offers thanks, and:
 
 ---
 
-### **Outcome 2 — Dangerous Men**
+### **Outcome 2 &mdash; Dangerous Men**
 
 Same as above, but Knickknack is dead or the Hat is missing.
 
@@ -254,7 +256,7 @@ Laeral still takes the rock and offers the same coin reward, but with caution.
 
 ---
 
-### **Outcome 3 — Fugitives**
+### **Outcome 3 &mdash; Fugitives**
 
 If they stole from the City Watch, left behind chaos, or fled combat:
 
@@ -262,7 +264,7 @@ If they stole from the City Watch, left behind chaos, or fled combat:
 - If they kept the **Hat of Disguise**, it draws attention
 - If they kept the **black rock**, they may be hunted
 
-They gain no formal reward, but survive — and live to tell another tale.
+They gain no formal reward, but survive &mdash; and live to tell another tale.
 
 \page
 
@@ -299,7 +301,7 @@ Regardless of outcome:
 > #### The Minion (choose one flavor)
 - **BugBear (wounded)**: HP halved, brute force
 - **Kenku**: Ambusher, mimicry, flees fast
-- **Gazer**: Mini-beholder — missing one ray, others weakened by half
+- **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
 
 ---
 
@@ -308,11 +310,11 @@ Regardless of outcome:
 > #### Hat of Improved Disguise
 - Appears mundane, stitched with gray sigils
 - 3 charges/day: cast **Improved Disguise Self** (ignore creature type limits)
-- *Property of Xanathar’s Thieves’ Guild — they want it back*
+- *Property of Xanathar’s Thieves’ Guild &mdash; they want it back*
 
 > #### Tankard of Plenty
 - Once per day, fills with one pint of fine ale
-- Cannot be sold for more than 1 gp — considered sentimental or "haunted"
+- Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
 
 ---
 
