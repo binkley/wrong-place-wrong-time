@@ -76,7 +76,7 @@ the players guide.
   Said to walk unseen when it suits her, and to treasure what others might
   overlook.
 
----
+\page
 
 ## Setting Maps and Places
 
@@ -92,7 +92,7 @@ the players guide.
 > #### Three Pearls Nightclub
 > *Nearby festhall known for raucous burlesque.*
 
----
+\page
 
 ## For the Actor-Manager
 
@@ -105,7 +105,7 @@ the players guide.
 - **Others** — Gnome street beggar, washerwoman, Aldym Gedreghost (Fey
   Pouncer’s late master)
 
----
+\page
 
 ## Act I — A Night on the Town, or The Catalyst
 
@@ -143,7 +143,7 @@ Gear is stored in an unlocked room. They may be tempted to steal more (note:
 doing so affects ending). A secret passage (DC 15 Investigation or Perception)
 leads to the alley behind the jail. Watch patrols may still be close by.
 
----
+\page
 
 ## Act II — The Game is Afoot, or The Rising Action
 
@@ -194,7 +194,7 @@ Combat encounter: **Knickknack** and her **Minion**. The players get
 - The Minion may try to kill Knickknack to silence her, but fails
 - Players may recover items, evidence, or interrogate
 
----
+\page
 
 ## Act III — All’s Well That Ends Well, or The Denouement
 
@@ -251,7 +251,7 @@ If they stole from the City Watch, left behind chaos, or fled combat:
 
 They gain no formal reward, but survive — and live to tell another tale.
 
----
+\page
 
 ### Epilogue
 
@@ -262,7 +262,7 @@ Regardless of outcome:
 
 **Both characters reach Level 2.**
 
----
+\page
 
 ## Appendices
 
