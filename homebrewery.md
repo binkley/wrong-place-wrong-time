@@ -71,13 +71,19 @@ the players guide.
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 
 ### Actor-Manager
-- **City Watch** — The official keepers of the peace in Waterdeep. Uniformed,
-  orderly, and never far away. Blades serve as constables, led by Swords and
-  Swordcaptains. Their tone can vary — some fair, some brusque, but all with
-  authority.
+- **One-Eyed Jukk** — A fence who bases his "operation" in the Bloody Fist
+  tavern.
+  He is human, and popular with the those wishing to unburden themselves of
+  weapons and armor.
+  He seems mostly harmless.
+- **City Watch** — The official keepers of the peace in Waterdeep.
+  Uniformed, orderly, and never far away.
+  Blades serve as constables, led by Swords and Swordcaptains.
+  Their tone can vary — some fair, some brusque, but all with authority.
 - **Laeral Silverhand** — Open Lord of Waterdeep, spoken of in reverent tones.
   A tall, silver-haired woman whose gaze seems to hold both youth and
-  centuries. She appears rarely, but when she does, the Watch stands straighter.
+  centuries.
+  She appears rarely, but when she does, the Watch stands straighter.
   Said to walk unseen when it suits her, and to treasure what others might
   overlook.
 
@@ -103,10 +109,12 @@ the players guide.
 
 ### Among your many roles
 
-- **One-Eyed Jukk** — Rogue fence operating from the Bloody Fist tavern.
+- **City Watch**
+- **One-Eyed Jukk**
 - **Knickknack** — Goblin gang leader, clever and conniving.
 - **Minion** (choose form) — A thug disguised as a tall human male (bugbear,
-  kenku, or gazer stats) wearing a Hat of Improved Disguise.
+  Kenku, or Gazer stats) wearing a Hat of Improved Disguise.
+- **Laeral Silverhand**
 - **Others** — Gnome street beggar, washerwoman, Aldym Gedreghost (Fey
   Pouncer’s late master)
 
