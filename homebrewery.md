@@ -1,5 +1,5 @@
-# *Two in Faerûn, Part I*
 # Wrong Place, Wrong Time
+# (*Swords in Faerûn, Part I*)
 <!--
 Do not word wrap here, and keep the 'A' on a separate line:
 - This puts the 'A' in dropcase and wraps the rest of the title around it
