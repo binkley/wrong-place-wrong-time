@@ -411,17 +411,35 @@ She is often seen with her **Broom**
 
 ### Traits
 
-**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice discrepancies in behavior, such as **uneven rent payments** or **suspicious comings and goings**. She has advantage on Insight checks to detect **deception** or **suspicious activity** in her tenants.
+**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice
+discrepancies in behavior, such as **uneven rent payments** or **suspicious
+comings and goings**. She has advantage on Insight checks to detect
+**deception** or **suspicious activity** in her tenants.
 
-**Persistent Reminder**. Mrs. Hattrick is always **checking up on her tenants**, and once a day, she will remind them about their **rent**. If rent is **late** for two consecutive days, she becomes **uncooperative** and may take actions to **pressure** tenants.
+**Persistent Reminder**. Mrs. Hattrick is always **checking up on her
+tenants**, and once a day, she will remind them about their **rent**. If rent
+is **late** for two consecutive days, she becomes **uncooperative** and may
+take actions to **pressure** tenants.
 
-**Nosey Neighbor**. Mrs. Hattrick can be **invasive**, and if the players let their guard down, she may try to **pry into their affairs**. She has disadvantage on Charisma (Deception) checks against those she has already observed for a prolonged period of time.
+**Nosey Neighbor**. Mrs. Hattrick can be **invasive**, and if the players let
+their guard down, she may try to **pry into their affairs**. She has
+disadvantage on Charisma (Deception) checks against those she has already
+observed for a prolonged period of time.
 
 ### Actions
 
-**A Well-Timed Remark**. Mrs. Hattrick interrupts a conversation or action with an **unwanted opinion**, causing a creature within 30 feet of her to make a DC 13 Wisdom saving throw. On a failed save, the creature has **disadvantage** on its next check or attack roll against anyone other than Mrs. Hattrick.
+**A Well-Timed Remark**. Mrs. Hattrick interrupts a conversation or action
+with an **unwanted opinion**, causing a creature within 30 feet of her to make
+a DC 13 Wisdom saving throw. On a failed save, the creature has
+**disadvantage** on its next check or attack roll against anyone other than
+Mrs. Hattrick.
 
-**Persistent Questioning**. Mrs. Hattrick asks a series of **invasive questions**. One creature within 10 feet must succeed on a DC 14 Charisma saving throw or be **charmed** by her for 1 minute. While charmed, the creature is compelled to **answer her questions** truthfully, including questions about personal details. Once the effect ends, the creature can attempt to deceive her if it wishes.
+**Persistent Questioning**. Mrs. Hattrick asks a series of **invasive
+questions**. One creature within 10 feet must succeed on a DC 14 Charisma
+saving throw or be **charmed** by her for 1 minute. While charmed, the
+creature is compelled to **answer her questions** truthfully, including
+questions about personal details. Once the effect ends, the creature can
+attempt to deceive her if it wishes.
 
 **Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
 Bludgeoning damage.
@@ -443,18 +461,26 @@ local rumors or a missing object).
 
 ### Personality
 
-- **Motivated by Efficiency**: Always looking to ensure everything is in order, especially when it comes to **rent payments**.
-- **Charming**: While intrusive, Mrs. Hattrick can be surprisingly **charming** when needed, using her **charm** to get people to open up.
-- **Unaware**: Often unaware of how **overbearing** she is; her actions are motivated by genuine concern but come off as condescending or humorous.
+- **Motivated by Efficiency**: Always looking to ensure everything is in
+  order, especially when it comes to **rent payments**.
+- **Charming**: While intrusive, Mrs. Hattrick can be surprisingly
+  **charming** when needed, using her **charm** to get people to open up.
+- **Unaware**: Often unaware of how **overbearing** she is; her actions are
+  motivated by genuine concern but come off as condescending or humorous.
+- **Nostalgic**: She often refers to "our departed dear Mr. Hattrick" or
+  discusses events from decades ago as if you were there to witness them.
 
 ---
 
 ### Notes
 
-- **Voice**: Mrs. Hattrick's voice is **shrill** when discussing **rules** but softens when offering personal advice.
-- **Mannerisms**: She often **fiddles with her glasses** and can be seen **writing notes** in her book while observing her tenants.
-- **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken, leading to lighthearted and humorous interactions.
+- **Voice**: Mrs. Hattrick's voice is **shrill** when discussing **rules** but
+  softens when offering personal advice.
+- **Mannerisms**: She often **fiddles with her glasses** and can be seen
+  **writing notes** in her book while observing her tenants.
+- **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken,
+  leading to lighthearted and humorous interactions.
+
 }}
 
 \page
-
