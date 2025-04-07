@@ -98,11 +98,8 @@ the players guide.
 \column
 
 ### Actor-Manager
-- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
-  and sometimes nosey and annoying.
-  She wields a mean broom when she isn't talking or offering advice.
-- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash;
-  A fence who bases his "operation" in the _Bloody Fist_ tavern.
+- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
+  fence who bases his "operation" in the _Bloody Fist_ tavern.
   He is human, and popular with the those wishing to unburden themselves of
   weapons and armor.
   He seems mostly harmless.
@@ -115,7 +112,11 @@ the players guide.
   A tall, silver-haired woman whose gaze seems to hold both youth and
   centuries.
   She appears rarely, but when she does, the Watch stands straighter.
-  Said to walk unseen when it suits her, and to treasure what others overlook.
+  Said to walk unseen when it suits her, and to treasure what others might
+  overlook.
+- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful and sometimes
+  nosey and annoying.
+  She wields a mean broom when she isn't talking or offering advice.
 
 \page
 
@@ -477,6 +478,38 @@ local rumors or a missing object).
   motivated by genuine concern but come off as condescending or humorous.
 - **Nostalgic**: She often refers to "our departed dear Mr. Hattrick" or
   discusses events from decades ago as if you were there to witness them.
+
+---
+
+### Example interactions
+
+- **On Avoidance**: If the players actively avoid her, she might say:
+  > (Knocking at your door unexpectedly)  
+  > Just checking, making sure everything’s alright.
+  > Gracious, my apologies.
+  > Your bedposts are still creaky, it must keep you up at night.
+  > That needs some oiling!
+  > I’ll come back tomorrow around nuncheon.
+
+- **Unhelpful gift**:
+  > My dears, just leaving a small trinket.
+  > Our sweet Bulima who had this room before you left it behind.
+  > I wonder why she would do that?
+  > Young people these days have no sense, not like in my time.
+  
+  She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
+
+- **Annoying remarks**:
+
+  To The Fey Pouncer:
+  > Oh, my dear, I see you're still dressing like a child.
+  > You really should try something more mature... might help you look less
+  > suspicious on our fine streets.
+
+  To Gafford:
+  > Aren't those boots are too nice for a city man as yourself, don’t
+  > you think?
+  > They'll get dirty!
 
 ---
 
