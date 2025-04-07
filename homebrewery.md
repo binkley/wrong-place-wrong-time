@@ -45,16 +45,16 @@ dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
 and all manner of ruffians and ne’er-do-wells. Much of the poor live here,
 victims and villains alike. Warehouses, poorhouses and tenements dominate. The
 streets are steep and narrow; signs or guideposts are rare but you know your
-way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a bolthole
-good enough for your needs.
+way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
+bolthole good enough for your needs.
 
 Everything is muddy or wet from the late afternoon rain, and through clouds a
 low, waning, gibbous moon shines pale yellow somewhat illuminating the street.
 A good night to spend in a festhall or tavern or both. After enjoying Three
 Pearls Nightclub (and some burlesque), it is after midnight, and you continue
 to the Bloody Fist about a block from the festhall and across Snail Street.
-One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his wares, but even
-at his “low, low” prices, it is too rich for you.
+One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his
+wares, but even at his “low, low” prices, it is too rich for you.
 
 > #### What do you do?
 
@@ -62,34 +62,38 @@ Later still in the wee hours, and both a little tipsy, you step out onto Snail
 Street to head back home while pulling up your cloaks against the cold damp. A
 Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
 for “a little coin for my poor mother”. As you regard the seeming vagrant, two
-hooded figures&mdash;one quite tall, one quite short&mdash;rush past you down the street
-toward the docks; their faces are hidden, but they leave an impression in your
-mind. You spot the shorter one tossing something small and dark against a
-nearby recessed doorway.
+hooded figures&mdash;one quite tall, one quite short&mdash;rush past you down
+the street toward the docks; their faces are hidden, but they leave an
+impression in your mind. You spot the shorter one tossing something small and
+dark against a nearby recessed doorway.
 
 ---
 
 ## To the Actor-Manager
 
-You, the DM, are the **actor-manager** &mdash; a role drawn from the stages of old.
+You, the DM, are the **actor-manager** &mdash; a role drawn from the stages of
+old.
 You portray the characters who cross paths with **Gaffard** and **The Fey
 Pouncer**, and direct the movement through the Acts.
 
 The plot has multiple points of optionality: what happens next is up to player
-choices. Many of the scenes are optional, or alternative to each other &mdash; let
-the players guide.
+choices.
+Many of the scenes are optional, or alternative to each other &mdash; let the
+players guide.
 
 \page
 
 ## _Dramatis Personae_
 
 ### Players
-- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; the hapless hero <br>
-  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and a
-  skald from the _Spine of the World_ who left his mother's overbearing thumb.
-  <br>
+- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; The
+  _Hapless Hero_ <br>
+  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
+  a skald from the _Spine of the World_ who left his mother's overbearing
+  thumb. <br>
   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195) &mdash; the plucky rake <br>
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195)
+  &mdash; The _Plucky Rake_ <br>
   A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
   apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
   following unfortunate events. <br>
@@ -325,7 +329,9 @@ Regardless of outcome:
 
 \page
 
-### Appendix B: Gaffard &amp; Fey Pouncer Summary
+### Appendix B: _Gaffard_ &amp; _The Fey Pouncer_ Summaries
+
+**TODO: FLESH THESE OUT FOR THE DM**
 
 > #### [Gaffard](https://www.dndbeyond.com/characters/132206796)
 - Human Barbarian (Uthgardt Tribe)
@@ -341,36 +347,18 @@ Regardless of outcome:
 
 \page
 
-### Appendix C: Optional Map Reference
+### Appendix C: Map Reference
 
-> *Insert Dock Ward map or block sketch link here*
+> *TODO: Insert Dock Ward map or block sketch link here*
 
 Suggestions:
 - Waterdeep interactive map from Forgotten Realms wiki
 - Custom sketch map for Dust Alley and Snail Street
 - Theater-style "acts map" showing movement through the ward
 
-### Appendix D: NPCs
-
-> #### One-Eyed Jukk (Rogue 3)
-- AC 13 (leather)
-- HP 18
-- Attack: Dagger +5 (1d4+3)
-- Sneak Attack: +2d6
-- Features: Cunning Action, Thieves’ Cant, Familiar with city gangs
-
-> #### Knickknack (Goblin Gang Leader)
-- AC 15, HP 11
-- Nimble Escape, Disengage as Bonus Action
-- Shortbow or Scimitar
-- Wears a belt pouch with 2 sp, 10 cp, and a scrap of a half-written note
-
-> #### The Minion (choose one flavor)
-- **BugBear (wounded)**: HP halved, brute force
-- **Kenku**: Ambusher, mimicry, flees fast
-- **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
-
 \page
+
+### Appendix D: NPCs
 
 {{note
 > #### Mrs. Hattrick, A Landlady in Dust Alley
@@ -379,10 +367,10 @@ Suggestions:
 
 ---
 
-**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)  
-**Initiative** +3 (17)  
-**Hit Points** 5 (1d8)  
-**Speed** 30 ft.  
+**Armor Class** 11 (comfortable, practical clothing plus DEX bonus) <br>
+**Initiative** +3 (17) <br>
+**Hit Points** 5 (1d8) <br>
+**Speed** 30 ft.
 
 ---
 
@@ -392,20 +380,18 @@ Suggestions:
 
 ---
 
-**Skills**: Insight +4, Persuasion +4, Perception +4   
-**Senses**: Passive Perception 14   
-**Languages**: Common, Elvish  
-**Age**: 52 (hard to tell)  
-**Height**: 4'10"  
-**Weight**: 110 lbs.  
+**Skills**: Insight +4, Persuasion +4, Perception +4  <br>
+**Senses**: Passive Perception 14  <br>
+**Languages**: Common, Elvish <br>
+**Age**: 52 (hard to tell) <br>
+**Height**: 4'10" <br>
+**Weight**: 110 lbs.
 
 ---
 
 **Challenge**: 0 (XP 10; PB +2)
 
 }}
-
----
 
 ### Gear
 
@@ -418,30 +404,33 @@ She is often seen with her **Broom**
 
 ### Traits
 
-**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice
-discrepancies in behavior, such as **uneven rent payments** or **suspicious
-comings and goings**. She has advantage on Insight checks to detect
-**deception** or **suspicious activity** in her tenants.
+**Keen Observer**.
+Mrs. Hattrick has a **keen eye** for details and can notice discrepancies in
+behavior, such as **uneven rent payments** or **suspicious comings and
+goings**.
+She has advantage on Insight checks to detect **deception** or **suspicious
+activity** in her tenants.
 
-**Persistent Reminder**. Mrs. Hattrick is always **checking up on her
-tenants**, and once a day, she will remind them about their **rent**. If rent
-is **late** for two consecutive days, she becomes **uncooperative** and may
-take actions to **pressure** tenants.
+**Persistent Reminder**.
+Mrs. Hattrick is always **checking up on her tenants**, and once a day, she
+will remind them about their **rent**.
+If rent is **late** for two consecutive days, she becomes **uncooperative**
+and may take actions to **pressure** tenants.
 
-**Nosey Neighbor**. Mrs. Hattrick can be **invasive**, and if the players let
-their guard down, she may try to **pry into their affairs**. She has
-disadvantage on Charisma (Deception) checks against those she has already
-observed for a prolonged period of time.
-
-\column
+**Nosey Neighbor**.
+Mrs. Hattrick can be **invasive**, and if the players let their guard down,
+she may try to **pry into their affairs**.
+She has disadvantage on Charisma checks against those she has already observed
+for a prolonged period of time.
 
 ### Actions
 
-**A Well-Timed Remark**. Mrs. Hattrick interrupts a conversation or action
-with an **unwanted opinion**, causing a creature within 30 feet of her to make
-a DC 13 Wisdom saving throw. On a failed save, the creature has
-**disadvantage** on its next check or attack roll against anyone other than
-Mrs. Hattrick.
+**A Well-Timed Remark**.
+Mrs. Hattrick interrupts a conversation or action with an **unwanted
+opinion**, causing a creature within 30 feet of her to make a DC 13 Wisdom
+saving throw.
+On a failed save, the creature has **disadvantage** on its next D20 Test
+for a skill check or against a creature other than Mrs. Hattrick.
 
 **Persistent Questioning**. Mrs. Hattrick asks a series of **invasive
 questions**. One creature within 10 feet must succeed on a DC 14 Charisma
@@ -452,8 +441,6 @@ attempt to deceive her if it wishes.
 
 **Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
 Bludgeoning damage.
-
----
 
 ### Reactions
 
@@ -466,8 +453,6 @@ local rumors or a missing object).
 
 \page
 
----
-
 ### Personality
 
 - **Motivated by Efficiency**: Always looking to ensure everything is in
@@ -479,45 +464,41 @@ local rumors or a missing object).
 - **Nostalgic**: She often refers to "our departed dear Mr. Hattrick" or
   discusses events from decades ago as if you were there to witness them.
 
----
-
 ### Example interactions
 
 - **On Avoidance**: If the players actively avoid her, she might say:
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(Knocking at your door unexpectedly)  
-Just checking, making sure everything’s alright.
-Gracious, my apologies.
-Your bedposts are still creaky, it must keep you up at night.
-That needs some oiling!
-I’ll come back tomorrow around nuncheon.
-}}
+  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+  (Knocking at your door unexpectedly) <br>
+  Just checking, making sure everything’s alright.
+  Gracious, my apologies.
+  Your bedposts are still creaky, it must keep you up at night.
+  That needs some oiling!
+  I’ll come back tomorrow around nuncheon.
+  }}
 
 - **Unhelpful gift**:
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-My dears, just leaving a small trinket.
-Our sweet Bulima who had this room before you left it behind.
-I wonder why she would do that?
-Young people these days have no sense, not like in my time.
-}}
-  
+  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+  My dears, just leaving a small trinket.
+  Our sweet Bulima who had this room before you left it behind.
+  I wonder why she would do that?
+  Young people these days have no sense, not like in my time.
+  }}
+
   She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
 
 - **Annoying remarks**:
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(To The Fey Pouncer)  
-Oh, my dear, I see you're still dressing like a child.
-You really should try something more mature... might help you look less
-suspicious on our fine streets.
-}}
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(To Gafford)  
-Aren't those boots are too nice for a city man as yourself, don’t
-you think?
-They'll get dirty!
-}}
-
----
+  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+  (To The Fey Pouncer) <br>
+  Oh, my dear, I see you're still dressing like a child.
+  You really should try something more mature... might help you look less
+  suspicious on our fine streets.
+  }}
+  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+  (To Gafford) <br>
+  Aren't those boots are too nice for a city man as yourself, don’t
+  you think?
+  They'll get dirty!
+  }}
 
 ### Notes
 
@@ -527,3 +508,27 @@ They'll get dirty!
   **writing notes** in her book while observing her tenants.
 - **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken,
   leading to lighthearted and humorous interactions.
+
+\page
+
+> #### One-Eyed Jukk (Rogue 3)
+- AC 13 (leather)
+- HP 18
+- Attack: Dagger +5 (1d4+3)
+- Sneak Attack: +2d6
+- Features: Cunning Action, Thieves’ Cant, Familiar with city gangs
+
+\page
+
+> #### Knickknack (Goblin Gang Leader)
+- AC 15, HP 11
+- Nimble Escape, Disengage as Bonus Action
+- Shortbow or Scimitar
+- Wears a belt pouch with 2 sp, 10 cp, and a scrap of a half-written note
+
+\page
+
+> #### The Minion (choose one flavor)
+- **BugBear (wounded)**: HP halved, brute force
+- **Kenku**: Ambusher, mimicry, flees fast
+- **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
