@@ -1,5 +1,4 @@
-# Wrong Place, Wrong Time
-# (*Swords in Faerûn, Part I*)
+# Wrong Place, Wrong Time <br> *(Swords in Faerûn, Part I)*
 <!--
 Do not word wrap here, and keep the 'A' on a separate line:
 - This puts the 'A' in dropcase and wraps the rest of the title around it
@@ -88,7 +87,7 @@ power.
 Blending classic fantasy with city street gritty noir, you are fast friends
 alone in a new, sprawling city, and might encounter fights or opportunities.
 
-## Introduction for Players
+## To the Players
 
 The Dock Ward is well-known as a district in Waterdeep both unsavory and
 dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
