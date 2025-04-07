@@ -6,17 +6,7 @@ Do not word wrap here, and keep the 'A' on a separate line:
 - Breaking the long title line causes format changes when rendered
 -->
 A
-> ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
-
-Welcome to _Wrong Place, Wrong Time_! <br>
-Hail, and well met.
-
-This adventure draws inspiration from the legendary stories of **Fritz
-Leiber’s Fafhrd and the Gray Mouser**, and from the world of _Faerûn_, a
-campaign setting for D&amp;D 5e.
-You play the roles of **Gaffard**, a youthful barbarian from the icy wilds of
-the **Spine of the World**, and **The Fey Pouncer**, a subtle rogue from the
-far south, and adventure in **Waterdeep**, the _City of Splendors_.
+### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
 
 ## _Dramatis Personae_
 
@@ -63,6 +53,24 @@ far south, and adventure in **Waterdeep**, the _City of Splendors_.
   Said to walk unseen when it suits her, and to treasure what others might
   overlook.
 
+## Prologue
+
+Welcome to _Wrong Place, Wrong Time_. <br>
+_Hail, and well met!_
+
+This crossover adventure draws inspiration from the legendary stories of
+**Fafhrd and the Gray Mouser**&mdash;classic swords&amp;sorcery
+fantasy&mdash;and from the **Forgotten Realms**, a classic campaign setting
+for D&amp;D.
+In this crossover, you play well-known characters of **Nehwon** but in
+**Faerûn** for an adventure that promises danger, deception, the new and
+unexpected.
+
+You are **Gaffard**, a youthful barbarian from the icy wilds of the **Spine of
+the World**, and **The Fey Pouncer**, a subtle rogue from the far south, and
+adventure together in **Waterdeep**, the _City of Splendors_, strengthening
+your bond of friendship while fighting false accusal of foul deeds.
+
 \page
 
 ## Setting
@@ -79,10 +87,6 @@ power.
 
 Blending classic fantasy with city street gritty noir, you are fast friends
 alone in a new, sprawling city, and might encounter fights or opportunities.
-
-In this crossover, you’re playing as characters well-known in **Nehwon**, the
-world of Leiber’s creation, set in **Faerûn** for an adventure that promises
-danger, deception, and the new and unexpected.
 
 ## Introduction for Players
 
