@@ -361,7 +361,7 @@ Suggestions:
 ### Appendix D: NPCs
 
 {{note
-> #### Mrs. Hattrick, A Landlady in Dust Alley
+#### Mrs. Hattrick, A Landlady in Dust Alley
 
 **Medium Humanoid (Human), Lawful Neutral**
 
@@ -380,6 +380,8 @@ Suggestions:
 
 ---
 
+**Proficiency Bonus** +2 <br>
+**Saving Throws** Dex +1, Wis +2, Cha -1 <br>
 **Skills**: Insight +4, Persuasion +4, Perception +4  <br>
 **Senses**: Passive Perception 14  <br>
 **Languages**: Common, Elvish <br>
@@ -390,7 +392,6 @@ Suggestions:
 ---
 
 **Challenge**: 0 (XP 10; PB +2)
-
 }}
 
 ### Gear
@@ -532,3 +533,98 @@ local rumors or a missing object).
 - **BugBear (wounded)**: HP halved, brute force
 - **Kenku**: Ambusher, mimicry, flees fast
 - **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
+
+\page
+
+{{note
+### **Laeral Silverhand**, Open Lord of Waterdeep
+
+**Medium Humanoid (Human), Chaotic Good**
+
+---
+
+**Armor Class** 19 (natural armor, magical protection) <br>
+**Initiative** +3 (17) <br>
+**Hit Points** 250 (20d8 + 140) <br>
+**Speed** 30 ft.
+
+---
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 12 (+1) | 18 (+4) | 20 (+5) | 22 (+6) | 18 (+4) | 22 (+6) |
+
+---
+**Skills**: Insight +4, Persuasion +4, Perception +4 <br>
+**Senses**: Passive Perception 14 <br>
+**Languages**: Common, Elvish <br>
+**Age**: 52 (hard to tell) <br>
+**Height**: 4'10" <br>
+**Weight**: 110 lbs.
+
+**Saving Throws** Dex +11, Wis +11, Cha +13 <br>
+**Skills** Arcana +13, History +13, Insight +11, Persuasion +13 <br>
+**Senses** Passive Perception 16 <br>
+**Languages** Common, Elvish, Draconic, Infernal <br>
+**Challenge** 18 (20,000 XP) <br>
+**Proficiency Bonus** +6
+**Age**: unkown <br>
+**Height**: 5'10" <br>
+**Weight**: 140 lbs.
+}}
+
+### Gear
+
+### Traits
+
+**Spellcasting**. Laeral is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 21, +13 to hit with spell attacks). She has the following wizard spells prepared:
+- Cantrips (at will): *Mage Hand, Prestidigitation, Light, Fire Bolt, Minor Illusion*
+- 1st level (4 slots): *Detect Magic, Mage Armor, Shield, Magic Missile*
+- 2nd level (3 slots): *Misty Step, Mirror Image*
+- 3rd level (3 slots): *Counterspell, Fireball, Lightning Bolt*
+- 4th level (3 slots): *Greater Invisibility, Polymorph*
+- 5th level (3 slots): *Telekinesis, Dominate Person, Cone of Cold*
+- 6th level (2 slots): *True Seeing, Disintegrate*
+- 7th level (2 slots): *Plane Shift, Delayed Blast Fireball*
+- 8th level (1 slot): *Power Word Stun, Mind Blank*
+- 9th level (1 slot): *Meteor Swarm*
+
+**Legendary Resistance (3/Day)**. If Laeral fails a saving throw, she can choose to succeed instead.
+
+**Innate Sorcery**. Laeral has access to the following abilities, drawn from her heritage as one of the Seven Sisters, as well as her extensive arcane knowledge.
+- **Spell Immunity**: Laeral is immune to any spell that would alter her mind, such as *charm person*, *compulsion*, and *fear* spells.
+- **Ley Line Affinity**: When casting a spell that targets a single creature, Laeral can expend 1 spell slot of 3rd level or higher to add an additional 1d6 force damage to the spell's effect.
+- **Arcane Reversal**: Once per day, Laeral can **reverse the effects of any spell** cast on her, making the spell’s effect negate or return to its caster.
+
+**Political Influence**. As Open Lord of Waterdeep, Laeral has influence over all aspects of the city. She can request assistance from any faction or ally within Waterdeep, and she can exert significant sway over the Waterdeep City Watch, Lords' Alliance, and other city institutions.
+
+### Actions
+
+**Multiattack**. Laeral makes three weapon attacks or casts two spells and makes one weapon attack.
+
+**Quarterstaff** (Melee Weapon Attack): +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage.
+
+**Mind Control** (Recharge 5-6). Laeral can cast *Dominate Person* at 5th level without expending a spell slot.
+
+**Arcane Overload** (Recharge 5-6). Laeral releases a burst of arcane energy. All creatures within 30 feet must make a DC 21 Dexterity saving throw or take 45 (10d8) force damage, or half as much on a successful save.
+
+### Reactions
+
+**Counterspell (3/Day)**. When a creature within 60 feet casts a spell, Laeral can use her reaction to interrupt the spell and attempt to counter it.
+
+### Legendary Actions
+Laeral can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Laeral regains spent legendary actions at the start of her turn.
+
+1. **Cast a Spell (Costs 2 Actions)**. Laeral casts a spell of 3rd level or lower.
+2. **Move**. Laeral moves up to her speed without provoking opportunity attacks.
+3. **Dispel Magic (Costs 3 Actions)**. Laeral casts *Dispel Magic* on a creature or object within range.
+
+\page
+
+### Personality Traits
+- **Just**: Laeral is a firm and fair ruler, upholding the laws of Waterdeep. She is dedicated to ensuring **justice prevails** but also understands when to show mercy.
+- **Strategic Thinker**: Laeral is a seasoned politician and tactician, using her **intelligence and wisdom** to navigate complex situations and make **long-term decisions**.
+- **Powerful but Reserved**: While Laeral is supremely powerful, she prefers to **manage situations** through **influence** rather than overt displays of magic, making her **deliberate** in her actions.
+
+### Notes for the Actor-Manager (DM)
+- **Tone**: Laeral should be **grand**, yet **controlled**, speaking with the weight of her station and the **wisdom of years**. She doesn’t need to raise her voice to command respect.
