@@ -425,8 +425,9 @@ Mrs. Hattrick carries her **notebook**, where she keeps a record of all
 tenants’ **rent payments**, and a **small knitting kit** for personal use,
 which she’s always fiddling with when she’s idle.
 
-She is often seen with her **Broom**
-([https://www.dndbeyond.com/equipment/5-club](Club)).
+She is often seen with her
+**[broom](https://www.dndbeyond.com/equipment/5-club)**, and tenants know to
+avoid her wild sweeping and deadly might with dust and spiders.
 
 ### Traits
 
