@@ -8,9 +8,8 @@ Do not word wrap here, and keep the 'A' on a separate line:
 A
 > ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
 
-## Introduction
-
-Welcome to _Wrong Place, Wrong Time_! Hail, and well met.
+Welcome to _Wrong Place, Wrong Time_! <br>
+Hail, and well met.
 
 This adventure draws inspiration from the legendary stories of **Fritz
 Leiber’s Fafhrd and the Gray Mouser**, and from the world of _Faerûn_, a
@@ -19,10 +18,64 @@ You play the roles of **Gaffard**, a youthful barbarian from the icy wilds of
 the **Spine of the World**, and **The Fey Pouncer**, a subtle rogue from the
 far south, and adventure in **Waterdeep**, the _City of Splendors_.
 
+## _Dramatis Personae_
+
+### Players
+- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; The
+  _Hapless Hero_ <br>
+  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
+  a skald from the _Spine of the World_ who left his mother's overbearing
+  thumb. <br>
+  Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
+- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195)
+  &mdash; The _Plucky Rake_ <br>
+  A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
+  apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
+  following unfortunate events. <br>
+  Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
+
+### Actor-Manager
+- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
+  and sometimes annoying and hindering.
+  She wields a mean broom when she isn't talking or offering advice.
+- **TODO: TAVERN KEEP**
+- **TODO: GNOME CHILD IN RAGS**
+- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
+  fence who bases his "operation" in the _Bloody Fist_ tavern.
+  He is human, and popular with the those wishing to unburden themselves of
+  weapons and armor.
+  He seems mostly harmless.
+- **City Watch** &mdash; The official keepers of the peace in Waterdeep.
+  Uniformed, orderly, and never far away.
+  Blades serve as constables, led by Swords and Swordcaptains.
+  Their tone can vary &mdash; some fair, some brusque, but all with authority.
+- **TODO: BREAK OUT CITY WATCH TO SEPARATE NPCS**
+- **TODO: JAIL GUARDS**
+- **TODO: STREET BEGGAR &mdash; SAME AS PREVIOUS GNOME CHILD**
+- **TODO: WASHERWOMAN**
+- **Kninckknack** &mdash; A Goblin Leader
+- **Minion** &mdash; Follower of Knickknack
+- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in reverent
+  tones.
+  A tall, silver-haired woman whose gaze seems to hold both youth and
+  centuries.
+  She appears rarely, but when she does, the Watch stands straighter.
+  Said to walk unseen when it suits her, and to treasure what others might
+  overlook.
+
+\page
+
 ## Setting
 
 Within **Waterdeep’s** bustling **Dock Ward**, your heroes encounter danger,
 intrigue, and reward.
+
+Built atop a vast plateau along the northern Sword Coast, Waterdeep is a
+bustling, crowded, busy mercantile city where coin is king. Waterdhavians live
+life at a fast pace, and despite their fervent work ethic, they rarely miss an
+opportunity to celebrate, with festivals often going on all day and all night.
+In Waterdeep, wealth brings respect, respect earns influence, and influence is
+power.
 
 Blending classic fantasy with city street gritty noir, you are fast friends
 alone in a new, sprawling city, and might encounter fights or opportunities.
@@ -31,15 +84,7 @@ In this crossover, you’re playing as characters well-known in **Nehwon**, the
 world of Leiber’s creation, set in **Faerûn** for an adventure that promises
 danger, deception, and the new and unexpected.
 
-
 ## Introduction for Players
-
-Built atop a vast plateau along the northern Sword Coast, Waterdeep is a
-bustling, crowded, busy mercantile city where coin is king. Waterdhavians live
-life at a fast pace, and despite their fervent work ethic, they rarely miss an
-opportunity to celebrate, with festivals often going on all day and all night.
-In Waterdeep, wealth brings respect, respect earns influence, and influence is
-power.
 
 The Dock Ward is well-known as a district in Waterdeep both unsavory and
 dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
@@ -49,6 +94,8 @@ streets are steep and narrow; signs or guideposts are rare but you know your
 way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
 bolthole good enough for your needs.
 
+After a _long conversation_ with Mrs. Hattrick, your landlady, you
+seek relief.
 Everything is muddy or wet from the late afternoon rain, and through clouds a
 low, waning, gibbous moon shines pale yellow somewhat illuminating the street.
 A good night to spend in a festhall or tavern or both. After enjoying Three
@@ -81,47 +128,6 @@ The plot has multiple points of optionality: what happens next is up to player
 choices.
 Many of the scenes are optional, or alternative to each other &mdash; let the
 players guide.
-
-\page
-
-## _Dramatis Personae_
-
-### Players
-- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; The
-  _Hapless Hero_ <br>
-  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
-  a skald from the _Spine of the World_ who left his mother's overbearing
-  thumb. <br>
-  Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195)
-  &mdash; The _Plucky Rake_ <br>
-  A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
-  apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
-  following unfortunate events. <br>
-  Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
-
-\column
-
-### Actor-Manager
-- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
-  and sometimes annoying and hindering.
-  She wields a mean broom when she isn't talking or offering advice.
-- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
-  fence who bases his "operation" in the _Bloody Fist_ tavern.
-  He is human, and popular with the those wishing to unburden themselves of
-  weapons and armor.
-  He seems mostly harmless.
-- **City Watch** &mdash; The official keepers of the peace in Waterdeep.
-  Uniformed, orderly, and never far away.
-  Blades serve as constables, led by Swords and Swordcaptains.
-  Their tone can vary &mdash; some fair, some brusque, but all with authority.
-- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in reverent
-  tones.
-  A tall, silver-haired woman whose gaze seems to hold both youth and
-  centuries.
-  She appears rarely, but when she does, the Watch stands straighter.
-  Said to walk unseen when it suits her, and to treasure what others might
-  overlook.
 
 \page
 
