@@ -79,7 +79,7 @@ The plot has multiple points of optionality: what happens next is up to player
 choices. Many of the scenes are optional, or alternative to each other &mdash; let
 the players guide.
 
----
+\page
 
 ## _Dramatis Personae_
 
@@ -94,6 +94,8 @@ the players guide.
   apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
   following unfortunate events. <br>
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
+
+\column
 
 ### Actor-Manager
 - [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
@@ -112,6 +114,9 @@ the players guide.
   She appears rarely, but when she does, the Watch stands straighter.
   Said to walk unseen when it suits her, and to treasure what others might
   overlook.
+- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful and sometimes
+  nosey and annoying.
+  She wields a mean broom when she isn't talking or offering advice.
 
 \page
 
@@ -368,7 +373,7 @@ Suggestions:
 \page
 
 {{note
-> #### Mrs. Hattrick, Landlady of Dust Alley
+> #### Mrs. Hattrick, A Landlady in Dust Alley
 
 **Medium Humanoid (Human), Lawful Neutral**
 
@@ -398,6 +403,8 @@ Suggestions:
 
 **Challenge**: 0 (XP 10; PB +2)
 
+}}
+
 ---
 
 ### Gear
@@ -425,6 +432,8 @@ take actions to **pressure** tenants.
 their guard down, she may try to **pry into their affairs**. She has
 disadvantage on Charisma (Deception) checks against those she has already
 observed for a prolonged period of time.
+
+\column
 
 ### Actions
 
@@ -455,9 +464,9 @@ opportunities for **roleplay**. Once per day, she may provide a small **tidbit
 of gossip** or helpful observation that leads to a future plot hook (such as
 local rumors or a missing object).
 
----
+\page
 
-\column
+---
 
 ### Personality
 
@@ -480,7 +489,3 @@ local rumors or a missing object).
   **writing notes** in her book while observing her tenants.
 - **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken,
   leading to lighthearted and humorous interactions.
-
-}}
-
-\page
