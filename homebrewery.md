@@ -374,8 +374,8 @@ Suggestions:
 
 ---
 
-**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)
-**Initiative** +3 (17)
+**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)  
+**Initiative** +3 (17)  
 **Hit Points** 5 (1d8)  
 **Speed** 30 ft.  
 
@@ -387,12 +387,12 @@ Suggestions:
 
 ---
 
-**Skills**: Insight +4, Persuasion +4, Perception +4  
-**Senses**: Passive Perception 14  
-**Languages**: Common, Elvish
-**Age**: 52 (hard to tell)
-**Height**: 4'10"
-**Weight**: 110 lbs.
+**Skills**: Insight +4, Persuasion +4, Perception +4   
+**Senses**: Passive Perception 14   
+**Languages**: Common, Elvish  
+**Age**: 52 (hard to tell)  
+**Height**: 4'10"  
+**Weight**: 110 lbs.  
 
 ---
 
