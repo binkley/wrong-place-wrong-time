@@ -484,32 +484,38 @@ local rumors or a missing object).
 ### Example interactions
 
 - **On Avoidance**: If the players actively avoid her, she might say:
-  > (Knocking at your door unexpectedly)  
-  > Just checking, making sure everything’s alright.
-  > Gracious, my apologies.
-  > Your bedposts are still creaky, it must keep you up at night.
-  > That needs some oiling!
-  > I’ll come back tomorrow around nuncheon.
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(Knocking at your door unexpectedly)  
+Just checking, making sure everything’s alright.
+Gracious, my apologies.
+Your bedposts are still creaky, it must keep you up at night.
+That needs some oiling!
+I’ll come back tomorrow around nuncheon.
+}}
 
 - **Unhelpful gift**:
-  > My dears, just leaving a small trinket.
-  > Our sweet Bulima who had this room before you left it behind.
-  > I wonder why she would do that?
-  > Young people these days have no sense, not like in my time.
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+My dears, just leaving a small trinket.
+Our sweet Bulima who had this room before you left it behind.
+I wonder why she would do that?
+Young people these days have no sense, not like in my time.
+}}
   
   She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
 
 - **Annoying remarks**:
-
-  To The Fey Pouncer:
-  > Oh, my dear, I see you're still dressing like a child.
-  > You really should try something more mature... might help you look less
-  > suspicious on our fine streets.
-
-  To Gafford:
-  > Aren't those boots are too nice for a city man as yourself, don’t
-  > you think?
-  > They'll get dirty!
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(To The Fey Pouncer)  
+Oh, my dear, I see you're still dressing like a child.
+You really should try something more mature... might help you look less
+suspicious on our fine streets.
+}}
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(To Gafford)  
+Aren't those boots are too nice for a city man as yourself, don’t
+you think?
+They'll get dirty!
+}}
 
 ---
 
