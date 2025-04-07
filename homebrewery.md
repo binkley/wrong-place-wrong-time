@@ -307,7 +307,45 @@ Regardless of outcome:
 
 ---
 
-### Appendix A: Key NPC Stat Blocks (Simplified)
+### Appendix A: Magic Items
+
+> #### Hat of Improved Disguise
+- Appears mundane, stitched with gray sigils
+- 3 charges/day: cast **Improved Disguise Self** (ignore creature type limits)
+- *Property of Xanathar’s Thieves’ Guild &mdash; they want it back*
+
+> #### Tankard of Plenty
+- Once per day, fills with one pint of fine ale
+- Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
+
+\page
+
+### Appendix B: Gaffard &amp; Fey Pouncer Summary
+
+> #### [Gaffard](https://www.dndbeyond.com/characters/132206796)
+- Human Barbarian (Uthgardt Tribe)
+- Feats: Grappler, Tavern Brawler
+- Items: *Graywand*, *Heartseeker*, belt flask, battered Healer’s Kit
+
+> #### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
+- Human Rogue (Urchin)
+- Feats: Keen Mind, Magic Initiate (Prestidigitation, Mage Hand, Expeditious
+  Retreat)
+- Familiar: Spider, lives in cloak folds
+- Items: *Scalpel*, *Cat’s Claw*, lockpicks, gray hood of mouse fur
+
+\page
+
+### Appendix C: Optional Map Reference
+
+> *Insert Dock Ward map or block sketch link here*
+
+Suggestions:
+- Waterdeep interactive map from Forgotten Realms wiki
+- Custom sketch map for Dust Alley and Snail Street
+- Theater-style "acts map" showing movement through the ward
+
+### Appendix D: NPCs
 
 > #### One-Eyed Jukk (Rogue 3)
 - AC 13 (leather)
@@ -403,40 +441,3 @@ Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenants�
 
 \page
 
-### Appendix B: Magic Items
-
-> #### Hat of Improved Disguise
-- Appears mundane, stitched with gray sigils
-- 3 charges/day: cast **Improved Disguise Self** (ignore creature type limits)
-- *Property of Xanathar’s Thieves’ Guild &mdash; they want it back*
-
-> #### Tankard of Plenty
-- Once per day, fills with one pint of fine ale
-- Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
-
-\page
-
-### Appendix C: Gaffard &amp; Fey Pouncer Summary
-
-> #### [Gaffard](https://www.dndbeyond.com/characters/132206796)
-- Human Barbarian (Uthgardt Tribe)
-- Feats: Grappler, Tavern Brawler
-- Items: *Graywand*, *Heartseeker*, belt flask, battered Healer’s Kit
-
-> #### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
-- Human Rogue (Urchin)
-- Feats: Keen Mind, Magic Initiate (Prestidigitation, Mage Hand, Expeditious
-  Retreat)
-- Familiar: Spider, lives in cloak folds
-- Items: *Scalpel*, *Cat’s Claw*, lockpicks, gray hood of mouse fur
-
-\page
-
-### Appendix D: Optional Map Reference
-
-> *Insert Dock Ward map or block sketch link here*
-
-Suggestions:
-- Waterdeep interactive map from Forgotten Realms wiki
-- Custom sketch map for Dust Alley and Snail Street
-- Theater-style "acts map" showing movement through the ward
