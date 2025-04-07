@@ -374,8 +374,9 @@ Suggestions:
 
 ---
 
-**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)  
-**Hit Points** 4 (1d8)  
+**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)
+**Initiative** +3 (17)
+**Hit Points** 5 (1d8)  
 **Speed** 30 ft.  
 
 ---
@@ -389,12 +390,24 @@ Suggestions:
 **Skills**: Insight +4, Persuasion +4, Perception +4  
 **Senses**: Passive Perception 14  
 **Languages**: Common, Elvish
+**Age**: 52 (hard to tell)
+**Height**: 4'10"
+**Weight**: 110 lbs.
 
 ---
 
 **Challenge**: 0 (XP 10; PB +2)
 
 ---
+
+### Gear
+
+Mrs. Hattrick carries her **notebook**, where she keeps a record of all
+tenants’ **rent payments**, and a **small knitting kit** for personal use,
+which she’s always fiddling with when she’s idle.
+
+She is often seen with her **Broom**
+([https://www.dndbeyond.com/equipment/5-club](Club)).
 
 ### Traits
 
@@ -410,17 +423,21 @@ Suggestions:
 
 **Persistent Questioning**. Mrs. Hattrick asks a series of **invasive questions**. One creature within 10 feet must succeed on a DC 14 Charisma saving throw or be **charmed** by her for 1 minute. While charmed, the creature is compelled to **answer her questions** truthfully, including questions about personal details. Once the effect ends, the creature can attempt to deceive her if it wishes.
 
+**Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
+Bludgeoning damage.
+
 ---
 
 ### Reactions
 
-**"A Little Help Never Hurts"**. If Mrs. Hattrick notices the players struggling or in trouble, she will try to **offer unsolicited advice** that often doesn't help, but can create opportunities for **roleplay**. Once per day, she may provide a small **tidbit of gossip** or helpful observation that leads to a future plot hook (such as local rumors or a missing object).
+**"A Little Help Never Hurts"**.
+If Mrs. Hattrick notices the players struggling or in trouble, she will try to
+**offer unsolicited advice** that often doesn't help, but can create
+opportunities for **roleplay**. Once per day, she may provide a small **tidbit
+of gossip** or helpful observation that leads to a future plot hook (such as
+local rumors or a missing object).
 
 ---
-
-### Equipment
-
-Mrs. Hattrick carries her **notebook**, where she keeps a record of all tenants’ **rent payments**, and a **small knitting kit** for personal use, which she’s always fiddling with when she’s idle.
 
 \column
 
