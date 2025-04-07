@@ -1,8 +1,10 @@
 # Wrong Place, Wrong Time <br> *(Swords in Faerûn, Part I)*
 <!--
-Do not word wrap here, and keep the 'A' on a separate line:
-- This puts the 'A' in dropcase and wraps the rest of the title around it
-- Breaking the long title line causes format changes when rendered
+NOTES:
+- Do not word wrap the title, and keep the 'A' on a separate line:
+   - This puts the 'A' in dropcase and wraps the rest of the title around it
+   - Breaking the long title line causes format changes when rendered
+- Do not break long links: the Homebrewery parser will not understand.
 -->
 A
 ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&D 5e Based on _Fafhrd_ and _The Gray Mouser_ In Three Acts Set in Waterdeep, the _City of Splendor_
@@ -42,15 +44,10 @@ A
 - **TODO: JAIL GUARDS**
 - **TODO: STREET BEGGAR &mdash; SAME AS PREVIOUS GNOME CHILD**
 - **TODO: WASHERWOMAN**
-- **Kninckknack** &mdash; A Goblin Leader
-- **Minion** &mdash; Follower of Knickknack
-- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in reverent
-  tones.
-  A tall, silver-haired woman whose gaze seems to hold both youth and
-  centuries.
-  She appears rarely, but when she does, the Watch stands straighter.
-  Said to walk unseen when it suits her, and to treasure what others might
-  overlook.
+- **Kninckknack** &mdash; A Goblin Leader, clever and conniving.
+- **Minion** &mdash; A thuggish tall human underling of Knickknack.
+- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in respect and
+  some fear.
 
 ## Prologue
 
@@ -92,18 +89,21 @@ alone in a new, sprawling city, and might encounter fights or opportunities.
 The Dock Ward is well-known as a district in Waterdeep both unsavory and
 dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
 and all manner of ruffians and ne’er-do-wells. Much of the poor live here,
-victims and villains alike. Warehouses, poorhouses and tenements dominate. The
-streets are steep and narrow; signs or guideposts are rare but you know your
-way. Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
+victims and villains alike. Warehouses, poorhouses and tenements dominate.
+The  streets are steep and narrow; signs or guideposts are rare but you know
+your way.
+Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
 bolthole good enough for your needs.
 
 After a _long conversation_ with Mrs. Hattrick, your landlady, you
 seek relief.
 Everything is muddy or wet from the late afternoon rain, and through clouds a
 low, waning, gibbous moon shines pale yellow somewhat illuminating the street.
-A good night to spend in a festhall or tavern or both. After enjoying Three
-Pearls Nightclub (and some burlesque), it is after midnight, and you continue
-to the Bloody Fist about a block from the festhall and across Snail Street.
+A good night to spend in a festhall or tavern or both.
+
+After enjoying _Three Pearls Nightclub_ (and some burlesque),
+it is after midnight, and you continue to the Bloody Fist about a block from the
+festhall and across Snail Street.
 One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his
 wares, but even at his “low, low” prices, it is too rich for you.
 
@@ -152,16 +152,31 @@ players guide.
 
 ## For the Actor-Manager
 
+_Players should not read beyond the earlier pages if they do not wish to spoil
+their enjoyment._ 
+
 ### Among your many roles
 
-- **City Watch**
-- **One-Eyed Jukk**
-- **Knickknack** &mdash; Goblin gang leader, clever and conniving.
-- **Minion** (choose form) &mdash; A thug disguised as a tall human male
-  (Bugbear, Kenku, or Gazer stats) wearing a Hat of Improved Disguise.
-- **Laeral Silverhand**
-- **Others** &mdash; Gnome street beggar, washerwoman, Aldym Gedreghost (Fey
-  Pouncer’s late master)
+(See [_Dramatis Personae_](#dramatis-personae) above.)
+
+- **Minion** (choose form) &mdash; A thug disguised as a tall human male on
+  whom the
+  [Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)
+  spell was cast.
+  ([Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior),
+  [Kenku](https://www.dndbeyond.com/monsters/5195094-kenku), or
+  [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) stats).
+  You select the underlying stats and combat style and tactics.
+- **Laeral Silverhand** &mdash; A _deus ex machina_, players should be strongly
+  discouraged from manipulating or challenging her.
+  If they try to do so, she'll see what they are up to, and non-fatally
+  dissuade them.
+  She recognizes potential in them.
+  She is a tall, silver-haired woman whose gaze seems to hold both youth and
+  centuries.
+  She appears rarely, but when she does, the Watch stands straighter.
+  Said to walk unseen when it suits her, and to treasure what others might
+  overlook.
 
 \page
 
