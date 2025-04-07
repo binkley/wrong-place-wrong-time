@@ -98,8 +98,11 @@ the players guide.
 \column
 
 ### Actor-Manager
-- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
-  fence who bases his "operation" in the _Bloody Fist_ tavern.
+- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
+  and sometimes nosey and annoying.
+  She wields a mean broom when she isn't talking or offering advice.
+- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash;
+  A fence who bases his "operation" in the _Bloody Fist_ tavern.
   He is human, and popular with the those wishing to unburden themselves of
   weapons and armor.
   He seems mostly harmless.
@@ -112,11 +115,7 @@ the players guide.
   A tall, silver-haired woman whose gaze seems to hold both youth and
   centuries.
   She appears rarely, but when she does, the Watch stands straighter.
-  Said to walk unseen when it suits her, and to treasure what others might
-  overlook.
-- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful and sometimes
-  nosey and annoying.
-  She wields a mean broom when she isn't talking or offering advice.
+  Said to walk unseen when it suits her, and to treasure what others overlook.
 
 \page
 
