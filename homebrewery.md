@@ -370,19 +370,19 @@ Suggestions:
 {{note
 > #### Mrs. Hattrick, Landlady of Dust Alley
 
-**Medium humanoid (half-elf), neutral**
+**Medium Humanoid (Human), Lawful Neutral**
 
 ---
 
-**Armor Class** 12 (comfortable, practical clothing)  
-**Hit Points** 9 (2d8)  
+**Armor Class** 11 (comfortable, practical clothing plus DEX bonus)  
+**Hit Points** 4 (1d8)  
 **Speed** 30 ft.  
 
 ---
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) | 15 (+2) |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 7 (-2)  | 12 (+1) | 10 (+0) | 12 (+1) | 14 (+2) | 9 (-1)  |
 
 ---
 
@@ -392,7 +392,7 @@ Suggestions:
 
 ---
 
-**Challenge**: 1/8 (50 XP)
+**Challenge**: 0 (XP 10; PB +2)
 
 ---
 
