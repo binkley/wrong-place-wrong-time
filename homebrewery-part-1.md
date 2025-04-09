@@ -387,9 +387,10 @@ She offers thanks, and:
 
 #### Rewards
 - 100 gp each
-- **Tankard of Plenty** (each): fills with rich ale once per day
+- **[Tankard of Plenty](https://www.dndbeyond.com/magic-items/1031902-tankard-of-plenty)**
+  (each)
 - A favor owed by the **City Watch**
-- Laeral remembers their faces and deeds
+- **Laeral** remembers their faces and deeds
 
 #### Reputation
 Word goes around the City Watch to help you.
@@ -409,7 +410,8 @@ Laeral still takes the rock and offers the same coin reward, but with caution.
 
 #### Rewards
 - 100 gp each
-- **Tankard of Plenty** (each): fills with rich ale once per day
+- **[Tankard of Plenty](https://www.dndbeyond.com/magic-items/1031902-tankard-of-plenty)**
+  (each)
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
@@ -426,7 +428,8 @@ Laeral still takes the rock and offers the same coin reward, but with caution.
 
 #### Rewards
 - 100 gp each
-- **Tankard of Plenty** (each): fills with rich ale once per day
+- **[Tankard of Plenty](https://www.dndbeyond.com/magic-items/1031902-tankard-of-plenty)**
+  (each)
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
@@ -462,13 +465,9 @@ Regardless of outcome:
 
 \page
 
-## Appendices
+## Appendex A: References
 
----
-
-### Appendex A: References
-
-#### D&amp;D 2024
+### D&amp;D 2024
 
 - The [Free Rules](https://www.dndbeyond.com/sources/dnd/free-rules) &mdash; things that don’t need a published Player’s Handbook
     - [Glossary](http://dndbeyond.com/sources/dnd/free-rules/rules-glossary) &mdash; actions, attitudes (others), conditions, etc
@@ -481,15 +480,15 @@ Regardless of outcome:
 - Spells: [Mage Hand](https://www.dndbeyond.com/spells/2619008-mage-hand) (Cantrip), [Prestidigitation](https://www.dndbeyond.com/spells/2618893-prestidigitation) (Cantrip), and [Find Familiar](https://www.dndbeyond.com/spells/2618877-find-familiar) (1st Level)
 - Weapon mastery properties: [Nick](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Nick), [Sap](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Sap), [Slow](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Slow) and [Vex](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Vex)
 
-#### The World of Nehwon
+### The World of Nehwon
 
 - [Fafhrd](https://surbrook.devermore.net/adaptationsbook/nehwon/fafhrd.html) &mdash; a barbarian of the frozen north, and a former singing skald
 - [The Gray Mouser](https://surbrook.devermore.net/adaptationsbook/nehwon/greymouser.html) &mdash; a thief from the south, and a wizard’s ex-apprentice
 - [*Fritz Leiber’s Fafhrd and the Gray Mouser*](https://horrordelve.com/2014/08/02/fritz-leibers-fafhrd-and-the-gray-mouser/) &mdash; a good introduction to the books
 
-#### Forgotten Realms
+### Forgotten Realms
 
-##### Places
+#### Places
 
 - [Waterdeep](https://www.dndbeyond.com/posts/243-welcome-to-waterdeep-an-introduction-to-the-city) &mdash; the main city in the North (["City of Splendors”](https://cityofsplendorsdungeonofmadness.obsidianportal.com/wikis/the-city-of-splendors); [searchable map](https://www.aidedd.org/atlas/index.php?map=W&l=1))
     - [Dock Ward](https://forgottenrealms.fandom.com/wiki/Waterdeep/Dock_Ward) &mdash; a city ward exceptionally smelly, dirty, and dangerous ([more wards](https://www.reddit.com/r/WaterdeepDragonHeist/comments/oehhoh/i_wrote_up_introductions_for_each_ward_to_read_to/) and [maps](https://drive.google.com/drive/folders/1Hmtt3pWhev4Me0VuGR2iHsm81evMIIe9))
@@ -504,20 +503,20 @@ Regardless of outcome:
 - [Halruaa](https://forgottenrealms.fandom.com/wiki/Halruaa) &mdash; a land of magic and wizards in the *Shining South*
     - [Halagard](https://forgottenrealms.fandom.com/wiki/Halagard) &mdash; the former capital of *Halruaa*
 
-##### People
+#### People
 
 - [One-Eyed Jukk](https://forgottenrealms.fandom.com/wiki/One-Eyed_Jukk) &mdash; a well-known fence who uses the *Bloody Fist* as his place of business
 
-##### Organizations
+#### Organizations
 
 - [City Watch](https://forgottenrealms.fandom.com/wiki/City_Watch_\(Waterdeep\)) &mdash; the *Waterdeep* city watch (guards)
 
-##### Peoples
+#### Peoples
 
 - [Uthgardt](https://forgottenrealms.fandom.com/wiki/Uthgardt) &mdash; the barbarian tribes of the northwest *Faerûn* and the *Savage Frontier*
     - [Great Worm](https://forgottenrealms.fandom.com/wiki/Great_Worm_tribe)&mdash; an Uthgardt tribe located against the *Spine of the World*
 
-##### Languages
+#### Languages
 
 - [Bothii](https://forgottenrealms.fandom.com/wiki/Bothii) &mdash; the language of the Uthgardt tribes
 - [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan_language) &mdash; the local language of *Waterdeep* and its surrounding area ("Northern”)
@@ -527,24 +526,60 @@ Regardless of outcome:
 
 \page
 
-### Appendix B: Magic Items
+## Appendix B: Magic
 
-#### Tankard of Plenty
-- Once per day, fills with one pint of fine ale
-- Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
+### Improved Disguise Self (Spell)
+
+{{note
+Level 2nd <br>
+Casting Time 1 Action <br>
+Range/Area Self <br>
+Components V, S <br>
+Duration 1 Hour <br>
+School Illusion <br>
+Attack/Save None <br>
+Damage/Effect Shapechanging
+}}
+
+Like [Disguise Self](https://www.dndbeyond.com/spells/2619102-disguise-self),
+this spell changes your appearance but not your actual form or statistics.
+
+You make yourself—including your clothing, armor, weapons, and other
+belongings on your person—look different until the spell ends. You can't
+appear as a creature of a different size (if you are Medium, for example, you
+appear as a Medium creature), but may appear as a member of another species
+including forms with a different number or arrangement of limbs as you have.
+Otherwise, the extent of the illusion is up to you including being shorter or
+taller, lighter or heavier, or radically altering your appearance to seem an
+aberration or insect.
+
+The changes wrought by this spell fail to hold up to physical inspection. For
+example, if you use this spell to add a hat to your outfit, objects pass
+through the hat, and anyone who touches it would feel nothing; similarly an
+illusory limb cannot interact with objects or creatures. If your actions or
+movement is not consistent with your illusory form, the illusion ends for
+those observing you.
+
+To discern that you are disguised, a creature must take the
+[Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction)
+action to inspect your appearance and succeed on an Intelligence
+([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))
+check against your spell save DC.
+
+_See [the homebrew page](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)._
 
 \page
 
-### Appendix C: _Gaffard_ &amp; _The Fey Pouncer_ Summaries
+## Appendix C: _Gaffard_ &amp; _The Fey Pouncer_ Summaries
 
 **TODO: FLESH THESE OUT FOR THE DM**
 
-#### [Gaffard](https://www.dndbeyond.com/characters/132206796)
+### [Gaffard](https://www.dndbeyond.com/characters/132206796)
 - Human Barbarian (Uthgardt Tribe)
 - Feats: Grappler, Tavern Brawler
 - Items: *Graywand*, *Heartseeker*, belt flask, battered Healer’s Kit
 
-#### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
+### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
 - Human Rogue (Urchin)
 - Feats: Keen Mind, Magic Initiate (Prestidigitation, Mage Hand, Expeditious
   Retreat)
@@ -553,7 +588,7 @@ Regardless of outcome:
 
 \page
 
-### Appendix D: Map Reference
+## Appendix D: Map Reference
 
 > *TODO: Insert Dock Ward map or block sketch link here*
 
@@ -564,10 +599,10 @@ Suggestions:
 
 \page
 
-### Appendix E: NPCs
+## Appendix E: NPCs
 
 {{note
-#### Mrs. Hattrick, A Landlady in Dust Alley
+### Mrs. Hattrick, A Landlady in Dust Alley
 
 **Medium Humanoid (Human), Lawful Neutral**
 
@@ -600,7 +635,7 @@ Suggestions:
 **Challenge**: 0 (XP 10; PB +2)
 }}
 
-### Gear
+## Gear
 
 Mrs. Hattrick carries her **notebook**, where she keeps a record of all
 tenants’ **rent payments**, and a **small knitting kit** for personal use,
@@ -610,7 +645,7 @@ She is often seen with her
 **[broom](https://www.dndbeyond.com/equipment/5-club)**, and tenants know to
 avoid her wild sweeping and deadly might with dust and spiders.
 
-### Traits
+## Traits
 
 **Keen Observer**.
 Mrs. Hattrick has a **keen eye** for details and can notice discrepancies in
@@ -631,7 +666,7 @@ she may try to **pry into their affairs**.
 She has disadvantage on Charisma checks against those she has already observed
 for a prolonged period of time.
 
-### Actions
+## Actions
 
 **A Well-Timed Remark**.
 Mrs. Hattrick interrupts a conversation or action with an **unwanted
@@ -650,7 +685,7 @@ attempt to deceive her if it wishes.
 **Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
 Bludgeoning damage.
 
-### Reactions
+## Reactions
 
 **"A Little Help Never Hurts"**.
 If Mrs. Hattrick notices the players struggling or in trouble, she will try to
@@ -661,7 +696,7 @@ local rumors or a missing object).
 
 \page
 
-### Personality
+## Personality
 
 - **Motivated by Efficiency**: Always looking to ensure everything is in
   order, especially when it comes to **rent payments**.
@@ -672,7 +707,7 @@ local rumors or a missing object).
 - **Nostalgic**: She often refers to "our departed dear Mr. Hattrick" or
   discusses events from decades ago as if you were there to witness them.
 
-### Example interactions
+## Example interactions
 
 - **On Avoidance**: If the players actively avoid her, she might say:
   {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
@@ -708,7 +743,7 @@ local rumors or a missing object).
   They'll get dirty!
   }}
 
-### Notes
+## Notes
 
 - **Voice**: Mrs. Hattrick's voice is **shrill** when discussing **rules** but
   softens when offering personal advice.
@@ -719,7 +754,7 @@ local rumors or a missing object).
 
 \page
 
-#### One-Eyed Jukk (Rogue 3)
+### One-Eyed Jukk (Rogue 3)
 - AC 13 (leather)
 - HP 18
 - Attack: Dagger +5 (1d4+3)
@@ -728,7 +763,7 @@ local rumors or a missing object).
 
 \page
 
-#### Knickknack (Goblin Gang Leader)
+### Knickknack (Goblin Gang Leader)
 - AC 15, HP 11
 - Nimble Escape, Disengage as Bonus Action
 - Shortbow or Scimitar
@@ -736,7 +771,7 @@ local rumors or a missing object).
 
 \page
 
-#### The Minion (choose one flavor)
+### The Minion (choose one flavor)
 - **BugBear (wounded)**: HP halved, brute force
 - **Kenku**: Ambusher, mimicry, flees fast
 - **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
@@ -744,7 +779,7 @@ local rumors or a missing object).
 \page
 
 {{note
-### **Laeral Silverhand**, Open Lord of Waterdeep
+## **Laeral Silverhand**, Open Lord of Waterdeep
 
 **Medium Humanoid (Human), Chaotic Good**
 
@@ -780,12 +815,12 @@ local rumors or a missing object).
 **Weight**: 140 lbs.
 }}
 
-### Gear
+## Gear
 
 - [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing):
    - *[Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore)*
 
-### Traits
+## Traits
 
 **Spellcasting**. Laeral is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 21, +13 to hit with spell attacks). She has the following wizard spells prepared:
 - Cantrips (at will): *Mage Hand, Prestidigitation, Light, Fire Bolt, Minor Illusion*
@@ -819,7 +854,7 @@ She can request assistance from any faction or ally within Waterdeep, and she
 can exert significant sway over the Waterdeep City Watch, Lords' Alliance, and
 other city institutions.
 
-### Actions
+## Actions
 
 **Multiattack**. Laeral makes three weapon attacks or casts two spells and
 makes one weapon attack.
@@ -834,12 +869,12 @@ level without expending a spell slot.
 All creatures within 30 feet must make a DC 21 Dexterity saving throw or take
 45 (10d8) force damage, or half as much on a successful save.
 
-### Reactions
+## Reactions
 
 **Counterspell (3/Day)**. When a creature within 60 feet casts a spell, Laeral
 can use her reaction to interrupt the spell and attempt to counter it.
 
-### Legendary Actions
+## Legendary Actions
 
 Laeral can take 3 legendary actions, choosing from the options below.
 Only one legendary action option can be used at a time and only at the end of
@@ -855,7 +890,7 @@ Laeral regains spent legendary actions at the start of her turn.
 
 \page
 
-### Personality Traits
+## Personality Traits
 - **Just**: Laeral is a firm and fair ruler, upholding the laws of Waterdeep.
   She is dedicated to ensuring **justice prevails** but also understands when
   to show mercy.
@@ -866,7 +901,7 @@ Laeral regains spent legendary actions at the start of her turn.
   to **manage situations** through **influence** rather than overt displays of
   magic, making her **deliberate** in her actions.
 
-### Notes for the Actor-Manager (DM)
+## Notes for the Actor-Manager (DM)
 - **Tone**: Laeral should be **grand**, yet **controlled**, speaking with the
   weight of her station and the **wisdom of years**.
   She doesn’t need to raise her voice to command respect.
