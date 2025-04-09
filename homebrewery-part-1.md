@@ -72,6 +72,11 @@ the World**, and **The Fey Pouncer**, a subtle rogue from the far south, and
 adventure together in **Waterdeep**, the _City of Splendors_, strengthening
 your bond of friendship while fighting false accusal of foul deeds.
 
+The adventure style is a mixture of "sandbox" and "railroad":
+There are plot points where the DM may gently guide you, but you have options,
+and those affect where things go.
+Don't feel limited!
+
 \page
 
 ## Setting
@@ -80,14 +85,18 @@ Within **Waterdeep’s** bustling **Dock Ward**, your heroes encounter danger,
 intrigue, and reward.
 
 Built atop a vast plateau along the northern Sword Coast, Waterdeep is a
-bustling, crowded, busy mercantile city where coin is king. Waterdhavians live
-life at a fast pace, and despite their fervent work ethic, they rarely miss an
-opportunity to celebrate, with festivals often going on all day and all night.
+bustling, crowded, busy mercantile city where coin is king.
+Waterdhavians live life at a fast pace, and despite their fervent work ethic,
+they rarely miss an opportunity to celebrate, with festivals often going on
+all day and all night.
 In Waterdeep, wealth brings respect, respect earns influence, and influence is
 power.
 
 Blending classic fantasy with city street gritty noir, you are fast friends
 alone in a new, sprawling city, and might encounter fights or opportunities.
+You took a small top-floor apartment, shabby and drafty, in the down-at-heel
+Dock Ward, many flights up from the street&mdash;but it was cheap and hidden
+from prying eyes, official ones at least.
 
 ## To the Players
 
@@ -95,7 +104,7 @@ The Dock Ward is well-known as a district in Waterdeep both unsavory and
 dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
 and all manner of ruffians and ne’er-do-wells. Much of the poor live here,
 victims and villains alike. Warehouses, poorhouses and tenements dominate.
-The  streets are steep and narrow; signs or guideposts are rare but you know
+The streets are steep and narrow; signs or guideposts are rare but you know
 your way.
 Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
 bolthole good enough for your needs.
@@ -112,16 +121,18 @@ festhall and across Snail Street.
 One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his
 wares, but even at his "low, low" prices, it is too rich for you.
 
-> #### What do you do?
+#### What do you do?
 
-Later still in the wee hours, and both a little tipsy, you step out onto Snail
-Street to head back home while pulling up your cloaks against the cold damp. A
-Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
-for "a little coin for my poor mother". As you regard the seeming vagrant, two
-hooded figures&mdash;one quite tall, one quite short&mdash;rush past you down
-the street toward the docks; their faces are hidden, but they leave an
-impression in your mind. You spot the shorter one tossing something small and
-dark against a nearby recessed doorway.
+Later still in the small hours, and both a little tipsy, you step out onto
+Snail Street to head back home while pulling up your cloaks against the cold
+damp.
+A Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
+for "a little coin for my poor mother".
+As you regard the seeming vagrant, two hooded figures&mdash;one quite tall,
+one quite short&mdash;rush past you down the street toward the docks; their
+faces are hidden, but they leave an impression in your mind.
+You spot the shorter one tossing something small and dark against a nearby
+recessed doorway.
 
 /page
 
@@ -147,16 +158,16 @@ for those.
 
 ## Setting Maps and Places
 
-> #### Dock Ward of Waterdeep
+#### Dock Ward of Waterdeep
 > *Insert image or map URL here.*
 
-> #### Snail Street and Dust Alley
+#### Snail Street and Dust Alley
 > *Insert street-level sketch or block map here.*
 
-> #### The Bloody Fist
+#### The Bloody Fist
 > *Inside: Jukk’s HQ, mostly dark and shabby.*
 
-> #### Three Pearls Nightclub
+#### Three Pearls Nightclub
 > *Nearby festhall known for raucous burlesque.*
 
 \page
@@ -183,8 +194,16 @@ She knows the Dock Ward like the back of her hand.
 One-Eyed Jukk is a connection to the criminal underworld of Waterdeep.
 He is discreet but will provide clues to characters at DC 15 for various skill
 checks.
-He is always happy to conduct trade in weapons and armor at 2x normal prices,
-though this provenance of his wares may be suspect.
+He is always happy to conduct trade in weapons and armor at double normal
+prices, though his provenance of his wares may be suspect and vary in quality.
+He leads a gang of street urchins and orphans, for example, the Gnome beggar
+child outside _The Bloody Fist_ acting as eyes and ears.
+
+#### The Beggar Child
+
+Play up the begging Gnome child outside _The Bloody Fist_ as pathetic and
+heart-warming for the soft-hearted.
+Really they are part of Jukk's network of spies and pickpockets.
 
 #### Minion
 
@@ -246,9 +265,11 @@ They are stripped of gear and tossed into a single jail cell.
 
 **Scene 3 &mdash; Escape**
 
-Gear is stored in an unlocked room. They may be tempted to steal more (note:
-doing so affects ending). A secret passage (DC 15 Investigation or Perception)
-leads to the alley behind the jail. Watch patrols may still be close by.
+Gear is stored in an unlocked room.
+They may be tempted to steal more (note: doing so affects ending).
+A secret passage (DC 15 Investigation or Perception) leads to the alley behind
+the jail.
+Watch patrols may still be close by.
 
 \page
 
@@ -264,18 +285,23 @@ intimidated (DC 10) into revealing he saw something tossed into a doorway.
 **Scene 2 &mdash; The Washerwoman**
 
 The players return to the recessed doorway and find a 1" square of black
-oilcloth. A trail of muddy footprints leads 15 feet south into Shrimp Alley
-before vanishing into a puddle.
+oilcloth.
+A trail of muddy footprints leads 15 feet south into Shrimp Alley before
+vanishing into a puddle.
 
-Knocking on the door reveals a squalid tenement. Inside is a tired woman,
-evasive and poor, who eyes the characters with distrust.
+Knocking on the door reveals a squalid tenement.
+Inside is a tired woman, evasive and poor, who eyes the characters with
+distrust.
 
 **Scene 3 &mdash; One-Eyed Jukk**
 
-Inside the Bloody Fist, One-Eyed Jukk is asleep and drunk. If woken, he gives
-confused and mostly useless answers &mdash; but warns them:
+Inside the Bloody Fist, One-Eyed Jukk is asleep and drunk.
+If woken, he gives confused and mostly useless answers &mdash; but warns them:
 
-> Dock Ward’s not safe &mdash; one gang takes your purse, the other your head.
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+Dock Ward’s not safe: one gang takes your purse, the other your head. <br>
+City Watch can be trusted if you bribe the right.
+}}
 
 **Scene 4 &mdash; Watch Patrol**
 
@@ -442,7 +468,7 @@ Regardless of outcome:
 
 ### Appendix A: Magic Items
 
-> #### Tankard of Plenty
+#### Tankard of Plenty
 - Once per day, fills with one pint of fine ale
 - Cannot be sold for more than 1 gp &mdash; considered sentimental or "haunted"
 
@@ -452,12 +478,12 @@ Regardless of outcome:
 
 **TODO: FLESH THESE OUT FOR THE DM**
 
-> #### [Gaffard](https://www.dndbeyond.com/characters/132206796)
+#### [Gaffard](https://www.dndbeyond.com/characters/132206796)
 - Human Barbarian (Uthgardt Tribe)
 - Feats: Grappler, Tavern Brawler
 - Items: *Graywand*, *Heartseeker*, belt flask, battered Healer’s Kit
 
-> #### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
+#### [The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)
 - Human Rogue (Urchin)
 - Feats: Keen Mind, Magic Initiate (Prestidigitation, Mage Hand, Expeditious
   Retreat)
@@ -632,7 +658,7 @@ local rumors or a missing object).
 
 \page
 
-> #### One-Eyed Jukk (Rogue 3)
+#### One-Eyed Jukk (Rogue 3)
 - AC 13 (leather)
 - HP 18
 - Attack: Dagger +5 (1d4+3)
@@ -641,7 +667,7 @@ local rumors or a missing object).
 
 \page
 
-> #### Knickknack (Goblin Gang Leader)
+#### Knickknack (Goblin Gang Leader)
 - AC 15, HP 11
 - Nimble Escape, Disengage as Bonus Action
 - Shortbow or Scimitar
@@ -649,7 +675,7 @@ local rumors or a missing object).
 
 \page
 
-> #### The Minion (choose one flavor)
+#### The Minion (choose one flavor)
 - **BugBear (wounded)**: HP halved, brute force
 - **Kenku**: Ambusher, mimicry, flees fast
 - **Gazer**: Mini-beholder &mdash; missing one ray, others weakened by half
