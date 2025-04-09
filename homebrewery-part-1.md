@@ -168,8 +168,23 @@ their enjoyment._
 
 ### Among your many roles
 
-(See [_Dramatis Personae_](#dramatis-personae) above.)
+(See [_Dramatis Personae_](#dramatis-personae) above, and further description
+and details in Appendix D.)
 
+#### The Landlady
+
+Mrs. Hattrick is annoying, and can be distracting or delaying.
+Play her up for comedic effect, but she is also helpful for neighborhood gossip,
+information on key NPCs, and helping players learn about Waterdeep.
+She knows the Dock Ward like the back of her hand.
+
+#### The Local Fence
+
+One-Eyed Jukk is a connection to the criminal underworld of Waterdeep.
+He is discreet but will provide clues to characters at DC 15 for various skill
+checks.
+He is always happy to conduct trade in weapons and armor at 2x normal prices,
+though this provenance of his wares may be suspect.
 
 #### Minion
 
