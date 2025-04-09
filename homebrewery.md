@@ -305,7 +305,8 @@ Laeral: (takes the papers, scans them) <br>
 Laeral: Hmmm. This first one ... clear enough. Good you found this. <br>
 Laeral: (pauses) This second sheet is blank. (frowns) <br>
 Laeral: (rubs the band of a silver ring on her finger — a faint shimmer crawls over the parchment) <br>
-DM note: Ring of Spell Storing – contains Legend Lore <br>
+DM note: Legend Lore from Ring of Spell Storing; Laeral has been looking for
+this evidence for some time <br>
 Laeral: (after a moment, quietly) I see, disguised, and freshly done so. <br>
 DM note: *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
 
