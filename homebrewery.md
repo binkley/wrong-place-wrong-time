@@ -259,7 +259,6 @@ Fey Pouncer can use *Keen Mind* to confirm they match the ones from earlier.
 They overhear:
 > What about those two near the Bloody Fist?
 > The boss don’t like loose ends.
-> What will Xanathar say?
 
 Combat encounter: **Knickknack** and her **Minion**. The players get
 **surprise**.
@@ -269,6 +268,9 @@ Combat encounter: **Knickknack** and her **Minion**. The players get
 - Knickknack will flee if things go badly
 - The Minion may try to kill Knickknack to silence her, but fails
 - Players may recover items, evidence, or interrogate
+
+Among the items found on Knickknack is two sheets of paper.
+The first one has instructions, the second one is blank.
 
 \page
 
@@ -285,7 +287,7 @@ If the players:
 - Escaped without stealing
 - Did not kill any City Watch
 - Turn in Knickknack alive
-- Present evidence (note)
+- Present evidence (papers found on Knickknack)
 
 Then:
 
@@ -297,6 +299,14 @@ Then:
 > “It is Ahghairon’s stone.
 > Yes, just a rock &mdash; but our rock.
 > We must not forget our origins.
+
+You: (hand over papers found on the bodies) <br>
+Laeral: (takes the papers, scans them) <br>
+Laeral: Hmmm. This first one ... clear enough. Good you found this. <br>
+Laeral: (pauses) This second sheet is blank. (frowns) <br>
+Laeral: (rubs the band of a silver ring on her finger — a faint shimmer crawls over the parchment) <br>
+DM Note: Ring of Spell Storing – contains Legend Lore <br>
+Laeral: (after a moment, quietly) I see, disguised.
 
 She offers thanks, and:
 
@@ -317,7 +327,7 @@ If the players:
 - Stole while escaping
 - Did not kill any City Watch
 - Turn in Knickknack alive or dead
-- Present evidence (note)
+- Present evidence (papers found on Knickknack)
 
 Laeral still takes the rock and offers the same coin reward, but with caution.
 
