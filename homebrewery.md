@@ -295,35 +295,45 @@ If the players:
 - Turn in Knickknack alive
 - Present evidence (papers found on Knickknack)
 
-Then:
+**Laeral Silverhand**, the Open Lord of Waterdeep, appears &mdash; a tall,
+robed figure with long silver hair, seeming both young and old.
+The guards behave reverently.
 
-> **Laeral Silverhand**, the Open Lord of Waterdeep, appears &mdash; a tall,
-> robed figure with long silver hair, seeming both young and old.
-> The guards behave reverently.
->
-> She sees the black rock and says: <br>
-> "It is Ahghairon’s stone.
-> Yes, just a rock &mdash; but our rock.
-> We must not forget our origins.
+She sees the black rock and says:
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+It is Ahghairon’s stone. Yes, just a rock &mdash; but our rock. <br>
+We must not forget our origins.
+}}
 
-You: (hand over papers found on the bodies) <br>
-Laeral: (takes the papers, scans them) I recognize this work. <br>
-Laeral: Hmmm. This first one ... clear enough. Good you found this. <br>
-Laeral: (pauses) This second sheet is blank. (frowns) <br>
-Laeral: (rubs the band of a silver ring on her finger — a faint shimmer crawls over the parchment) <br>
-DM note: Ring of Spell Storing – contains Legend Lore <br>
-Laeral: (after a moment, quietly) I see, disguised, and freshly done so. <br>
-DM note: *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
+You hand over to Laeral papers found on the bodies.
+
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(takes the papers, scans them) <br>
+I recognize this work. Hmmm. This first one ... clear enough. Good you found
+this. <br>
+(pauses) <br>
+This second sheet is blank. <br>
+(frowns and rubs a silver band on one finger — a faint shimmer crawls over the
+parchment) <br>
+I see, disguised, and freshly done so.
+}}
+
+DM notes:
+-  Ring of Spell Storing – contains Legend Lore
+- *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
+  was the spell previously on the blank page
+
 
 She offers thanks, and:
 
-**Rewards**:
+#### Rewards
 - 100 gp each
 - **Tankard of Plenty** (each): fills with rich ale once per day
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
-**Reputation**: Word goes around the City Watch to help you.
+#### Reputation
+Word goes around the City Watch to help you.
 
 ---
 
@@ -338,13 +348,14 @@ If the players:
 
 Laeral still takes the rock and offers the same coin reward, but with caution.
 
-**Rewards**:
+#### Rewards
 - 100 gp each
 - **Tankard of Plenty** (each): fills with rich ale once per day
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
-**Reputation**: You are allowed to remain in Waterdeep.
+#### Reputation
+You are allowed by the City to remain in Waterdeep.
 
 ---
 
@@ -354,13 +365,14 @@ Same as above, but Knickknack is dead or City Watch were killed.
 
 Laeral still takes the rock and offers the same coin reward, but with caution.
 
-**Rewards**:
+#### Rewards
 - 100 gp each
 - **Tankard of Plenty** (each): fills with rich ale once per day
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
-**Reputation**: You are allowed to remain in Waterdeep.
+#### Reputation
+You are allowed to remain in Waterdeep.
 
 ---
 
@@ -372,6 +384,11 @@ If they stole from the City Watch, left behind chaos, or fled combat:
 - If they kept the **black rock**, they may be hunted
 
 They gain no formal reward, but survive &mdash; and live to tell another tale.
+You are instructed to leave Waterdeep before two dawns from now, and cause no
+further trouble.
+
+#### Reputation
+The City Watch (when they remember) look for you.
 
 \page
 
