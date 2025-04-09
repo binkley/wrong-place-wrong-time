@@ -30,4 +30,5 @@ align="right" width="10%" height="auto"/>
 ## Use this repository
 
 Take advantage of [Homebrewery](https://homebrewery.naturalcrit.com/) to
-preview [this adventure as Markdown](./homebrewery.md), and to save as PDF.
+preview [this adventure as Markdown](./homebrewery-part-1.md), and to save as
+PDF.
