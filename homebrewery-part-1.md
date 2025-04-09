@@ -8,6 +8,7 @@ NOTES:
 
 TODO:
 - Existing TODO markers in the text.
+- Lots and LOTS of reference links to fix like how Homebrew looks in DnDB.
 - Redo the Act III outcomes. It's too much repetition to repeat, and there are
   multiple player choices and actions to consider.
 -->
@@ -267,8 +268,11 @@ They are stripped of gear and tossed into a single jail cell.
 
 Gear is stored in an unlocked room.
 They may be tempted to steal more (note: doing so affects ending).
-A secret passage (DC 15 Investigation or Perception) leads to the alley behind
-the jail.
+A secret passage (DC 15
+[Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
+or
+[Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills))
+leads to the alley behind the jail.
 Watch patrols may still be close by.
 
 \page
@@ -647,12 +651,12 @@ avoid her wild sweeping and deadly might with dust and spiders.
 
 ## Traits
 
-**Keen Observer**.
-Mrs. Hattrick has a **keen eye** for details and can notice discrepancies in
-behavior, such as **uneven rent payments** or **suspicious comings and
-goings**.
-She has advantage on Insight checks to detect **deception** or **suspicious
-activity** in her tenants.
+**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice
+discrepancies in behavior, such as **uneven rent payments** or **suspicious
+comings and goings**.
+She has advantage on
+[Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
+checks to detect **deception** or **suspicious activity** in her tenants.
 
 **Persistent Reminder**.
 Mrs. Hattrick is always **checking up on her tenants**, and once a day, she
@@ -669,18 +673,19 @@ for a prolonged period of time.
 ## Actions
 
 **A Well-Timed Remark**.
-Mrs. Hattrick interrupts a conversation or action with an **unwanted
-opinion**, causing a creature within 30 feet of her to make a DC 13 Wisdom
-saving throw.
+Mrs. Hattrick interrupts a conversation or action
+with an **unwanted opinion**, causing a creature within 30 feet of her to make
+a DC 13 Wisdom saving throw.
 On a failed save, the creature has **disadvantage** on its next D20 Test
 for a skill check or against a creature other than Mrs. Hattrick.
 
-**Persistent Questioning**. Mrs. Hattrick asks a series of **invasive
-questions**. One creature within 10 feet must succeed on a DC 14 Charisma
-saving throw or be **charmed** by her for 1 minute. While charmed, the
-creature is compelled to **answer her questions** truthfully, including
-questions about personal details. Once the effect ends, the creature can
-attempt to deceive her if it wishes.
+**Persistent Questioning**.
+Mrs. Hattrick asks a series of **invasive questions**.
+One creature within 10 feet must succeed on a DC 14 Charisma saving throw or
+be **charmed** by her for 1 minute.
+While charmed, the creature is compelled to **answer her questions**
+truthfully, including questions about personal details.
+Once the effect ends, the creature can attempt to deceive her if it wishes.
 
 **Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
 Bludgeoning damage.
@@ -690,67 +695,180 @@ Bludgeoning damage.
 **"A Little Help Never Hurts"**.
 If Mrs. Hattrick notices the players struggling or in trouble, she will try to
 **offer unsolicited advice** that often doesn't help, but can create
-opportunities for **roleplay**. Once per day, she may provide a small **tidbit
-of gossip** or helpful observation that leads to a future plot hook (such as
-local rumors or a missing object).
+opportunities for **roleplay**.
+Once per day, she may provide a small **tidbit of gossip** or helpful
+observation that leads to a future plot hook (such as local rumors or a
+missing object).
 
 \page
 
 ## Personality
 
-- **Motivated by Efficiency**: Always looking to ensure everything is in
-  order, especially when it comes to **rent payments**.
-- **Charming**: While intrusive, Mrs. Hattrick can be surprisingly
-  **charming** when needed, using her **charm** to get people to open up.
-- **Unaware**: Often unaware of how **overbearing** she is; her actions are
-  motivated by genuine concern but come off as condescending or humorous.
-- **Nostalgic**: She often refers to "our departed dear Mr. Hattrick" or
-  discusses events from decades ago as if you were there to witness them.
+**Motivated by Efficiency**.
+Always looking to ensure everything is in order, especially when it comes to
+**rent payments**.
+
+**Charming**.
+While intrusive, Mrs. Hattrick can be surprisingly **charming** when needed,
+using her **charm** to get people to open up.
+
+**Unaware**.
+Often unaware of how **overbearing** she is; her actions are motivated by
+genuine concern but come off as condescending or humorous.
+
+**Nostalgic**.
+She often refers to "our departed dear Mr. Hattrick" or discusses events from
+decades ago as if you were there to witness them.
 
 ## Example interactions
 
-- **On Avoidance**: If the players actively avoid her, she might say:
-  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-  (Knocking at your door unexpectedly) <br>
-  Just checking, making sure everything’s alright.
-  Gracious, my apologies.
-  Your bedposts are still creaky, it must keep you up at night.
-  That needs some oiling!
-  I’ll come back tomorrow around nuncheon.
-  }}
+**On Avoidance**.
+If the players actively avoid her, she might say:
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(loudly knocking at your door unexpectedly) <br>
+Just checking, making sure everything’s alright.
+Gracious, my apologies.
+Your bedposts are still creaky, it must keep you up at night.
+That needs some oiling!
+I’ll come back tomorrow around nuncheon.
+}}
 
-- **Unhelpful gift**:
-  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-  My dears, just leaving a small trinket.
-  Our sweet Bulima who had this room before you left it behind.
-  I wonder why she would do that?
-  Young people these days have no sense, not like in my time.
-  }}
+**Unhelpful gift**.
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+My dears, just leaving a small trinket.
+Our sweet Bulima who had this room before you left it behind.
+I wonder why she would do that?
+Young people these days have no sense, not like in my time.
+}}
+She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
 
-  She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
-
-- **Annoying remarks**:
-  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-  (To The Fey Pouncer) <br>
-  Oh, my dear, I see you're still dressing like a child.
-  You really should try something more mature... might help you look less
-  suspicious on our fine streets.
-  }}
-  {{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-  (To Gafford) <br>
-  Aren't those boots are too nice for a city man as yourself, don’t
-  you think?
-  They'll get dirty!
-  }}
+**Annoying remarks**.
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(To The Fey Pouncer) <br>
+Oh, my dear, I see you're still dressing like a child.
+You really should try something more mature... might help you look less
+suspicious on our fine streets.
+}}
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(To Gafford) <br>
+Aren't those boots are too _nice_ for a _city man_ as yourself, don’t you
+think?
+They'll get **dirty**!
+}}
 
 ## Notes
 
-- **Voice**: Mrs. Hattrick's voice is **shrill** when discussing **rules** but
-  softens when offering personal advice.
-- **Mannerisms**: She often **fiddles with her glasses** and can be seen
-  **writing notes** in her book while observing her tenants.
-- **Quirks**: She regularly **quotes old folk wisdom** but is often mistaken,
-  leading to lighthearted and humorous interactions.
+**Voice**.
+Mrs. Hattrick's voice is **shrill** when discussing **rules** but softens when
+offering personal advice.
+
+**Mannerisms**.
+She often **fiddles with her glasses** and can be seen **writing notes** in
+her book while observing her tenants.
+
+**Quirks**.
+She regularly **quotes old folk wisdom** but is often mistaken, leading to
+lighthearted and humorous interactions.
+
+\page
+
+{{note
+### Milton Cooper, the Barkeep of _The Bloody Fist_
+
+**Medium Humanoid (Human), Lawful Neutral**
+
+---
+
+**Armor Class** 11 (comfortable, practical clothing plus DEX bonus) <br>
+**Initiative** +0 (10) <br>
+**Hit Points** 4 (1d8) <br>
+**Speed** 30 ft.
+
+---
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 10 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 14 (+2) | 10 (+0) |
+
+---
+
+**Proficiency Bonus** +2 <br>
+**Saving Throws** Dex +1, Wis +2, Cha +0 <br>
+**Skills**: Insight +4, Perception +4  <br>
+**Languages**: Common, Dwarvish, Elvish, Halfing, Gnomish <br>
+**Age**: 45 <br>
+**Height**: 5'8" <br>
+**Weight**: 185 lbs.
+
+---
+
+**Challenge**: 0 (XP 0; PB +2)
+}}
+
+### Traits
+
+**Keen Sense of Business**.
+The barkeep is reads people and situations.
+He can sense when someone is trying to get away with something, especially
+when it comes to paying for drinks.
+He has
+**[advantage](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Advantage)**
+on Insight checks to discern deception or detect when a customer is trying to avoid paying or they are causing trouble.
+
+**Unflappable**.
+No matter how wild or unruly the tavern gets, the barkeep remains calm and
+efficient.
+He has advantage on saving throws against being frightened or charmed.
+
+### Actions
+
+**Barkeep’s Diplomacy**.
+The barkeep can spend 10 minutes talking to a creature, convincing them to
+behave themselves, pay their tab, or leave the premises without incident.
+The creature must make a DC 14 Wisdom saving throw or be charmed by the
+barkeep for 1 hour.
+If the creature succeeds, it is immune to this effect for the next 24 hours.
+
+**Behind the Bar**.
+The barkeep can quickly grab a bottle or mug from the bar and throw it to a
+target within 30 feet as a bonus action, dealing 1d4 bludgeoning damage if it
+hits.
+This attack has a range of 10 feet normally, but the barkeep can throw objects
+with great precision.
+
+### Reactions
+
+**"We don't cause trouble here"**.
+If a fight breaks out or someone tries to start trouble in his tavern, the
+barkeep will quietly intervene, often with a raised eyebrow or a stern word,
+but he’ll try to de-escalate before things get out of hand.
+He has advantage on Charisma (Persuasion) checks to calm a hostile creature.
+
+## Example interactions
+
+**Getting his name**.
+If a character inquires his name, he demurs.
+If pressed and a successful DC 15 Charisma check, he says:
+{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
+(quietly) <br>
+Well, it's Milton Cooper, if you must know.
+I'd appreciate you keeping that to yourself.
+Some make fun of my name since I'm a barkeep, and, well, Milton has it's own
+coarse humor.
+And, no, I don't serve no "cavier".
+}}
+
+### Notes
+
+**Voice**.
+Gruff but warm, with a quiet authority.
+
+**Mannerisms**.
+The barkeep cleans glasses, wipes down the bar, and occasionally makes small
+talk with patrons.
+
+**Quirks**.
+He does not share his name unless pressed.
 
 \page
 
@@ -779,7 +897,7 @@ local rumors or a missing object).
 \page
 
 {{note
-## **Laeral Silverhand**, Open Lord of Waterdeep
+### **Laeral Silverhand**, Open Lord of Waterdeep
 
 **Medium Humanoid (Human), Chaotic Good**
 
