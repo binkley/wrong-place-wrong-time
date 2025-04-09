@@ -629,15 +629,15 @@ local rumors or a missing object).
 **Languages**: Common, Elvish <br>
 **Age**: 52 (hard to tell) <br>
 **Height**: 4'10" <br>
-**Weight**: 110 lbs.
-
+**Weight**: 110 lbs. <br>
+<br>
+**Proficiency Bonus** +6 <br>
 **Saving Throws** Dex +11, Wis +11, Cha +13 <br>
 **Skills** Arcana +13, History +13, Insight +11, Persuasion +13 <br>
 **Senses** Passive Perception 16 <br>
 **Languages** Common, Elvish, Draconic, Infernal <br>
 **Challenge** 18 (20,000 XP) <br>
-**Proficiency Bonus** +6
-**Age**: unkown <br>
+**Age**: unknown <br>
 **Height**: 5'10" <br>
 **Weight**: 140 lbs.
 }}
