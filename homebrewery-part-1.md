@@ -170,27 +170,32 @@ their enjoyment._
 
 (See [_Dramatis Personae_](#dramatis-personae) above.)
 
-- **Minion** (DM chooses creature) &mdash; A thug disguised by
-  [Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)
-  as a tall human male.
-  You choose the underlying stats, combat style, and tactics:
-   - [Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior)
-     &mdash; focused on strength and melee
-   - [Kenku](https://www.dndbeyond.com/monsters/5195094-kenku) &mdash; focused
-     on deception and sneaking
-   - [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) &mdash; focused
-     on ranged magic
 
-- **Laeral Silverhand** &mdash; A _deus ex machina_, players should be strongly
-  discouraged from manipulating or challenging her.
-  If they try to do so, she'll see what they are up to, and non-fatally
-  dissuade them.
-  She recognizes potential in them.
-  She is a tall, silver-haired woman whose gaze seems to hold both youth and
-  centuries.
-  She appears rarely, but when she does, the Watch stands straighter.
-  Said to walk unseen when it suits her, and to treasure what others might
-  overlook.
+#### Minion
+
+A thug disguised by
+[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)
+as a tall human male.
+You choose the underlying stats, combat style, and tactics:
+ - [Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior)
+   &mdash; focused on strength and melee
+ - [Kenku](https://www.dndbeyond.com/monsters/5195094-kenku) &mdash; focused
+   on deception and sneaking
+ - [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) &mdash; focused
+   on ranged magic
+
+#### Laeral Silverhand
+
+A _deus ex machina_, players should be strongly discouraged from attempting
+to manipulate her or challenging her.
+If they try to do so, she'll see what they are up to, and non-fatally
+dissuade them.
+She recognizes potential in them.
+She is a tall, silver-haired woman whose gaze seems to hold both youth and
+centuries.
+She appears rarely, but when she does, the Watch stands straighter.
+Said to walk unseen when it suits her, and to treasure what others might
+overlook.
 
 \page
 
