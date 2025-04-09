@@ -245,18 +245,21 @@ confused and mostly useless answers &mdash; but warns them:
 
 **Scene 4 &mdash; Watch Patrol**
 
-A City Watch patrol passes through nearby streets. If spotted, the players may
-be recaptured unless they hide, flee, or disguise themselves.
+A City Watch patrol passes through nearby streets.
+If spotted, the players may be recaptured unless they hide, flee, or disguise
+themselves.
+Else it is combat, and harder for the PCs to protest innocense later.
 
 **Scene 5 &mdash; The Real Culprits**
 
 The players see the same tall and short figures again, moving through the Dock
-Ward. Fey Pouncer can use *Keen Mind* to confirm they match the ones from
-earlier.
+Ward.
+Fey Pouncer can use *Keen Mind* to confirm they match the ones from earlier.
 
 They overhear:
-> “What about those two near the Bloody Fist?” <br>
-> “The boss don’t like loose ends.”
+> What about those two near the Bloody Fist?
+> The boss don’t like loose ends.
+> What will Xanathar say?
 
 Combat encounter: **Knickknack** and her **Minion**. The players get
 **surprise**.
@@ -276,23 +279,24 @@ City Watch.
 
 ---
 
-### **Outcome 1 &mdash; Heroes of the Hour**
+### **Outcome 1 &mdash; Today's Heroes**
 
 If the players:
-- Escaped cleanly without stealing
+- Escaped without stealing
+- Did not kill any City Watch
 - Turn in Knickknack alive
-- Present evidence (note and Hat of Disguise)
+- Present evidence (note)
 
 Then:
 
-> **Laeral Silverhand**, the Open Lord of Waterdeep, appears &mdash; a tall, robed
-> figure with long silver hair, seeming both young and old. The guards behave
-> reverently.
+> **Laeral Silverhand**, the Open Lord of Waterdeep, appears &mdash; a tall,
+> robed figure with long silver hair, seeming both young and old.
+> The guards behave reverently.
 >
 > She sees the black rock and says: <br>
-
-> “It is Ahghairon’s stone. Yes, just a rock &mdash; but our rock. We must not
-> forget our origins.”
+> “It is Ahghairon’s stone.
+> Yes, just a rock &mdash; but our rock.
+> We must not forget our origins.
 
 She offers thanks, and:
 
@@ -302,19 +306,48 @@ She offers thanks, and:
 - A favor owed by the **City Watch**
 - Laeral remembers their faces and deeds
 
+**Reputation**: Word goes around the City Watch to help you.
+
 ---
 
 ### **Outcome 2 &mdash; Dangerous Men**
 
-Same as above, but Knickknack is dead or the Hat is missing.
+Same as above, but Knickknack is dead or City Watch were killed.
+If the players:
+- Stole while escaping
+- Did not kill any City Watch
+- Turn in Knickknack alive or dead
+- Present evidence (note)
 
 Laeral still takes the rock and offers the same coin reward, but with caution.
 
-**Reputation**: They are allowed to remain in Waterdeep but watched.
+**Rewards**:
+- 100 gp each
+- **Tankard of Plenty** (each): fills with rich ale once per day
+- A favor owed by the **City Watch**
+- Laeral remembers their faces and deeds
+
+**Reputation**: You are allowed to remain in Waterdeep.
 
 ---
 
-### **Outcome 3 &mdash; Fugitives**
+### **Outcome 3 &mdash; Under Suspicion**
+
+Same as above, but Knickknack is dead or City Watch were killed.
+
+Laeral still takes the rock and offers the same coin reward, but with caution.
+
+**Rewards**:
+- 100 gp each
+- **Tankard of Plenty** (each): fills with rich ale once per day
+- A favor owed by the **City Watch**
+- Laeral remembers their faces and deeds
+
+**Reputation**: You are allowed to remain in Waterdeep.
+
+---
+
+### **Outcome 4 &mdash; Fugitives**
 
 If they stole from the City Watch, left behind chaos, or fled combat:
 
