@@ -17,13 +17,13 @@ A
 ## _Dramatis Personae_
 
 ### Players
-- [**Gaffard**](https://www.dndbeyond.com/characters/132206796) &mdash; The
+- **[Gaffard](https://www.dndbeyond.com/characters/132206796)** &mdash; The
   _Hapless Hero_ <br>
   A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
   a skald from the _Spine of the World_ who left his mother's overbearing
   thumb. <br>
   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
-- [**The Fey Pouncer**](https://www.dndbeyond.com/characters/132211195)
+- **[The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)**
   &mdash; The _Plucky Rake_ <br>
   A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
   apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
@@ -36,7 +36,7 @@ A
   She wields a mean broom when she isn't talking or offering advice.
 - **TODO: TAVERN KEEP**
 - **TODO: GNOME CHILD IN RAGS**
-- [**One-Eyed Jukk**](https://www.dndbeyond.com/characters/131216132) &mdash; A
+- **[One-Eyed Jukk](https://www.dndbeyond.com/characters/131216132)** &mdash; A
   fence who bases his "operation" in the _Bloody Fist_ tavern.
   He is human, and popular with the those wishing to unburden themselves of
   weapons and armor.
@@ -170,13 +170,16 @@ their enjoyment._
 
 (See [_Dramatis Personae_](#dramatis-personae) above.)
 
-- **Minion** (choose form) &mdash; A thug disguised as a tall human male on
-  whom the
+- **Minion** (DM chooses creature) &mdash; A thug disguised as a tall human
+  male on whom the
   [Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)
-  spell was cast.
-  ([Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior),
-  [Kenku](https://www.dndbeyond.com/monsters/5195094-kenku), or
-  [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) stats).
+  spell was cast:
+   - [Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior)
+     &mdash; focused on strength and melee
+   - [Kenku](https://www.dndbeyond.com/monsters/5195094-kenku) &mdash; focused
+     on deception and sneaking
+   - [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) &mdash; focused
+     on ranged magic
   You select the underlying stats and combat style and tactics.
 - **Laeral Silverhand** &mdash; A _deus ex machina_, players should be strongly
   discouraged from manipulating or challenging her.
@@ -324,8 +327,8 @@ I recognize this work. Hmmm. This first one ... clear enough. Good you found
 this. <br>
 (pauses) <br>
 This second sheet is blank. <br>
-(frowns and rubs a silver band on one finger — a faint shimmer crawls over the
-parchment) <br>
+(frowns and rubs a silver band on one finger &mdash; a faint shimmer crawls
+over the parchment) <br>
 I see, disguised, and freshly done so.
 }}
 
@@ -333,7 +336,6 @@ DM notes:
 -  Ring of Spell Storing – contains Legend Lore
 - *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
   was the spell previously on the blank page
-
 
 She offers thanks, and:
 
