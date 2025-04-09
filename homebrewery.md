@@ -105,14 +105,14 @@ After enjoying _Three Pearls Nightclub_ (and some burlesque),
 it is after midnight, and you continue to the Bloody Fist about a block from the
 festhall and across Snail Street.
 One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his
-wares, but even at his “low, low” prices, it is too rich for you.
+wares, but even at his "low, low" prices, it is too rich for you.
 
 > #### What do you do?
 
 Later still in the wee hours, and both a little tipsy, you step out onto Snail
 Street to head back home while pulling up your cloaks against the cold damp. A
 Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
-for “a little coin for my poor mother”. As you regard the seeming vagrant, two
+for "a little coin for my poor mother". As you regard the seeming vagrant, two
 hooded figures&mdash;one quite tall, one quite short&mdash;rush past you down
 the street toward the docks; their faces are hidden, but they leave an
 impression in your mind. You spot the shorter one tossing something small and
@@ -191,7 +191,7 @@ their enjoyment._
 > recessed doorway.
 >
 > Suddenly: <br>
-> “Don’t go anywhere!” a Watchman’s voice cuts through the wet night.
+> "Don’t go anywhere!" a Watchman’s voice cuts through the wet night.
 
 **Optional Check**: The Fey Pouncer may later use *Keen Mind* to recall their
 faces.
@@ -201,8 +201,8 @@ faces.
 The characters are quickly surrounded by the City Watch. Combat is hopeless.
 They are stripped of gear and tossed into a single jail cell.
 
-> A watchman twirls a large skeleton key just out of reach. “Won’t be needin’
-> this anymore.”
+> A watchman twirls a large skeleton key just out of reach. "Won’t be needin’
+> this anymore."
 
 **Escape Options**:
 - *Mage Hand* + *Find Familiar* (recover key)
@@ -241,7 +241,7 @@ evasive and poor, who eyes the characters with distrust.
 Inside the Bloody Fist, One-Eyed Jukk is asleep and drunk. If woken, he gives
 confused and mostly useless answers &mdash; but warns them:
 
-> “Dock Ward’s not safe &mdash; one gang takes your purse, the other your head.”
+> Dock Ward’s not safe &mdash; one gang takes your purse, the other your head.
 
 **Scene 4 &mdash; Watch Patrol**
 
@@ -272,6 +272,12 @@ Combat encounter: **Knickknack** and her **Minion**. The players get
 Among the items found on Knickknack is two sheets of paper.
 The first one has instructions, the second one is blank.
 
+If characters take the
+*[Study](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#StudyAction)*
+action ("I inspect the pages", "I hold the pages to light", etc), they notice
+a light watermark in the top-right corner of a circle with 10 short
+even-spaced lines radiating.
+
 \page
 
 ## Act III &mdash; All’s Well That Ends Well, or The Denouement
@@ -296,17 +302,16 @@ Then:
 > The guards behave reverently.
 >
 > She sees the black rock and says: <br>
-> “It is Ahghairon’s stone.
+> "It is Ahghairon’s stone.
 > Yes, just a rock &mdash; but our rock.
 > We must not forget our origins.
 
 You: (hand over papers found on the bodies) <br>
-Laeral: (takes the papers, scans them) <br>
+Laeral: (takes the papers, scans them) I recognize this work. <br>
 Laeral: Hmmm. This first one ... clear enough. Good you found this. <br>
 Laeral: (pauses) This second sheet is blank. (frowns) <br>
 Laeral: (rubs the band of a silver ring on her finger — a faint shimmer crawls over the parchment) <br>
-DM note: Legend Lore from Ring of Spell Storing; Laeral has been looking for
-this evidence for some time <br>
+DM note: Ring of Spell Storing – contains Legend Lore <br>
 Laeral: (after a moment, quietly) I see, disguised, and freshly done so. <br>
 DM note: *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
 
