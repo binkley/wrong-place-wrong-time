@@ -305,8 +305,9 @@ Laeral: (takes the papers, scans them) <br>
 Laeral: Hmmm. This first one ... clear enough. Good you found this. <br>
 Laeral: (pauses) This second sheet is blank. (frowns) <br>
 Laeral: (rubs the band of a silver ring on her finger — a faint shimmer crawls over the parchment) <br>
-DM Note: Ring of Spell Storing – contains Legend Lore <br>
-Laeral: (after a moment, quietly) I see, disguised.
+DM note: Ring of Spell Storing – contains Legend Lore <br>
+Laeral: (after a moment, quietly) I see, disguised, and freshly done so. <br>
+DM note: *[Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)*
 
 She offers thanks, and:
 
@@ -362,7 +363,6 @@ Laeral still takes the rock and offers the same coin reward, but with caution.
 If they stole from the City Watch, left behind chaos, or fled combat:
 
 - The pair must **leave Waterdeep**
-- If they kept the **Hat of Disguise**, it draws attention
 - If they kept the **black rock**, they may be hunted
 
 They gain no formal reward, but survive &mdash; and live to tell another tale.
@@ -385,11 +385,6 @@ Regardless of outcome:
 ---
 
 ### Appendix A: Magic Items
-
-> #### Hat of Improved Disguise
-- Appears mundane, stitched with gray sigils
-- 3 charges/day: cast **Improved Disguise Self** (ignore creature type limits)
-- *Property of Xanathar’s Thieves’ Guild &mdash; they want it back*
 
 > #### Tankard of Plenty
 - Once per day, fills with one pint of fine ale
