@@ -813,7 +813,10 @@ He can sense when someone is trying to get away with something, especially
 when it comes to paying for drinks.
 He has
 **[advantage](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Advantage)**
-on Insight checks to discern deception or detect when a customer is trying to avoid paying or they are causing trouble.
+on
+[Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
+checks to discern deception or detect when a customer is trying to avoid
+paying or they are causing trouble.
 
 **Unflappable**.
 No matter how wild or unruly the tavern gets, the barkeep remains calm and
