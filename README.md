@@ -8,17 +8,7 @@ align="right" width="10%" height="auto"/>
 <!-- <p style="text-align: center;">A piece of centered text</p> -->
 <p align="center">
 <!-- The rabbit hole: once you use HTML, you cannot use Markdown -->
-<span
-  float: left;
-  font-family: Georgia;
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;>
-A
-</span>
-<i>Thrilling and Dangerous Two-Player One-Shot</i><br>
+<i>A Thrilling and Dangerous Two-Player One-Shot</i><br>
 <i><b>Adventure</b> for D&amp;D 5e</i><br>
 <i>Based on</i> Fafhrd <i>and</i> The Gray Mouser<br>
 <i>In Three Acts Set in Waterdeep,</i> the City of Splendors
