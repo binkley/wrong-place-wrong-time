@@ -18,14 +18,14 @@ A
 ## _Dramatis Personae_
 
 ### Players
-- **[Gaffard](https://www.dndbeyond.com/characters/132206796)** &mdash; The
-  _Hapless Hero_ <br>
+- **[Gaffard](https://www.dndbeyond.com/characters/132206796)** &mdash;
+  _The Hapless Hero_ <br>
   A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
   a skald from the _Spine of the World_ who left his mother's overbearing
   thumb. <br>
   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
 - **[The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)**
-  &mdash; The _Plucky Rake_ <br>
+  &mdash; _The Plucky Rake_ <br>
   A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
   apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
   following unfortunate events. <br>
