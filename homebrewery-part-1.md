@@ -13,7 +13,7 @@ TODO:
   multiple player choices and actions to consider.
 -->
 A
-### Thrilling and Dangerous Two-Player One-Shot Adventure for D&amp;D 5e In Three Acts Based on Based on Heroes of Nehwon Set in Waterdeep the _City of Splendor_
+### Thrilling and Dangerous Two-Player One-Shot Adventure for D&amp;D 5e In Three Acts Based on Heroes of Nehwon Set in Waterdeep the _City of Splendor_
 
 ## _Dramatis Personae_
 
