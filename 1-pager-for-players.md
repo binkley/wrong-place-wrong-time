@@ -108,8 +108,8 @@ A Gnome urchin in rags sits by the street, eyes you as a mark, and asks for
 "a little coin for my poor mother, don't'cha know".
 }}
 
-As you regard the seeming vagrant, two hooded figures&mdash;one quite tall,
-one quite short&mdash;rush past you down the street toward the docks; their
-faces are hidden, but they leave an impression in your mind.
-You spot the shorter one tossing something small and dark against a nearby
+As you regard the vagrant, two hooded figures&mdash;one quite tall, one quite
+short&mdash;rush past you down the street toward the docks; their faces are
+hidden, but they leave an impression in your mind.
+You spot the shorter figure tossing something small and dark against a nearby
 recessed doorway.
