@@ -18,17 +18,18 @@ A
 ## _Dramatis Personae_
 
 ### Players
-- **[Gaffard](https://www.dndbeyond.com/characters/132206796)** &mdash;
-  _The Hapless Hero_ <br>
-  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, and
-  a skald from the _Spine of the World_ who left his mother's overbearing
+- **[Gaffard](https://www.dndbeyond.com/characters/132206796)** &mdash; _The
+  Hapless Hero_ <br>
+  A 1st-level Human Barbarian (Uthgardt Tribe Member), towering and fair, a
+  skald from the _Spine of the World_ who left his mother's overbearing
   thumb. <br>
   Weapons: *Graywand* (longsword), *Heartseeker* (poniard).
 - **[The Fey Pouncer](https://www.dndbeyond.com/characters/132211195)**
   &mdash; _The Plucky Rake_ <br>
   A 1st-level Human Rogue (Urchin), childlike and swift, a former wizard’s
-  apprentice. Born (he thinks) in far Halagard, in the Shining South, and fled
-  following unfortunate events. <br>
+  apprentice.
+  Born (he thinks) in far Halagard, in the Shining South, and fled following
+  unfortunate events. <br>
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 
 ### Actor-Manager
@@ -57,85 +58,89 @@ A
 
 ## Prologue
 
-Welcome to _Wrong Place, Wrong Time_. <br>
-_Hail, and well met!_
+Welcome, _Hail, and well met!_
 
 This crossover adventure draws inspiration from the legendary stories of
-**Fafhrd and the Gray Mouser**&mdash;classic swords&amp;sorcery
-fantasy&mdash;and from the **Forgotten Realms**, a classic campaign setting
-for D&amp;D.
-In this crossover, you play well-known characters of **Nehwon** but in
-**Faerûn** for an adventure that promises danger, deception, the new and
+**Fafhrd and the Gray Mouser**&mdash;classic Swords &amp; Sorcery
+fantasy&mdash;and from the **Forgotten Realms**, a classic fantasy setting
+for D&amp;D and novels.
+In this crossover, you play the well-known characters of **Nehwon** but in
+**Faerûn** for an adventure that promises danger, deception, and the new and
 unexpected.
 
 You are **Gaffard**, a youthful barbarian from the icy wilds of the **Spine of
 the World**, and **The Fey Pouncer**, a subtle rogue from the far south, and
-adventure together in **Waterdeep**, the _City of Splendors_, strengthening
-your bond of friendship while fighting false accusal of foul deeds.
+adventuring together in **Waterdeep**, the _City of Splendors_, forging your
+bond of friendship while avoiding the City Watch.
 
 The adventure style is a mixture of "sandbox" and "railroad":
-There are plot points where the DM may gently guide you, but you have options,
-and those affect where things go.
+There are plot points where the DM may guide you, but _the world is your
+mollusc_.
 Don't feel limited!
 
-\page
-
-## Setting
+## Setting & Scenario
 
 Within **Waterdeep’s** bustling **Dock Ward**, your heroes encounter danger,
-intrigue, and reward.
-
+intrigue, and opportunity.
 Built atop a vast plateau along the northern Sword Coast, Waterdeep is a
-bustling, crowded, busy mercantile city where coin is king.
+bustling, smelly, crafty mercantile city where coin is king.
 Waterdhavians live life at a fast pace, and despite their fervent work ethic,
-they rarely miss an opportunity to celebrate, with festivals often going on
-all day and all night.
+they rarely miss an opportunity to celebrate&mdash;or at least watch: frequent
+inexplicable festivals&mdash;bright, grim, or just confusing&mdash;happen day
+or night for no obvious reason.
 In Waterdeep, wealth brings respect, respect earns influence, and influence is
-power.
+power while it lasts.
 
-Blending classic fantasy with city street gritty noir, you are fast friends
-alone in a new, sprawling city, and might encounter fights or opportunities.
-You took a small top-floor apartment, shabby and drafty, in the down-at-heel
-Dock Ward, many flights up from the street&mdash;but it was cheap and hidden
-from prying eyes, official ones at least.
+You found yourself fast friends after a barroom brawl over spilled drinks and
+the bill, natural allies by circumstance and inclination.
+
+The _Dock Ward_ is well-known as a district in Waterdeep both unsavory and
+dangerous.
+In it you find bawdy taverns, shady shops, dark winding alleyways, and all
+manner of ruffians and ne’er-do-wells.
+Much of the poor live here, victims and villains alike.
+Warehouses, poorhouses, and tenements dominate.
+The streets are steep and narrow; signs or guideposts are rare but you two
+know your way.
 
 ## To the Players
 
-The Dock Ward is well-known as a district in Waterdeep both unsavory and
-dangerous. In it you find bawdy taverns, shady shops, dark, winding alleyways
-and all manner of ruffians and ne’er-do-wells. Much of the poor live here,
-victims and villains alike. Warehouses, poorhouses and tenements dominate.
-The streets are steep and narrow; signs or guideposts are rare but you know
-your way.
-Near Snail Street is your shabby 3rd-floor flop on Dust Alley&mdash;a
+Near _Snail Street_ is your shabby 3rd-floor flop on _Dust Alley_&mdash;a
 bolthole good enough for your needs.
+Together you took a top-floor apartment in the down-at-heels _Dock
+Ward_&mdash;cheap, drafty, and hidden from official eyes though many flights
+up after a night's drinking.
 
-After a _long conversation_ with Mrs. Hattrick, your landlady, you
+After a _long conversation_ with **Mrs. Hattrick**, your nosey landlady, you
 seek relief.
 Everything is muddy or wet from the late afternoon rain, and through clouds a
-low, waning, gibbous moon shines pale yellow somewhat illuminating the street.
+low, waning, gibbous moon shines pale yellow, dimly illuminating the street.
 A good night to spend in a festhall or tavern or both.
 
-After enjoying _Three Pearls Nightclub_ (and some burlesque),
-it is after midnight, and you continue to the Bloody Fist about a block from the
-festhall and across Snail Street.
+After enjoying _Three Pearls Nightclub_ (and some burlesque), it is after
+midnight, and you continue to the _Bloody Fist_ about a block from the
+festhall, and across _Snail Street_.
 One-Eyed Jukk&mdash;a popular fence for armor and weapons&mdash;hawks his
-wares, but even at his "low, low" prices, it is too rich for you.
+wares, but even at his "low, cut me own throat" prices, it is too rich for you.
 
-#### What do you do?
+## What do you do?
 
 Later still in the small hours, and both a little tipsy, you step out onto
-Snail Street to head back home while pulling up your cloaks against the cold
-damp.
-A Gnome lad or laddie in rags sits aside the street, eyes you warily, and asks
-for "a little coin for my poor mother".
-As you regard the seeming vagrant, two hooded figures&mdash;one quite tall,
-one quite short&mdash;rush past you down the street toward the docks; their
-faces are hidden, but they leave an impression in your mind.
-You spot the shorter one tossing something small and dark against a nearby
+_Snail Street_ to head back home while pulling your cloaks tighter against the
+cold damp.
+
+{{note
+A Gnome urchin in rags sits by the street, eyes you as a mark, and asks for
+"a little coin for my poor mother, don't'cha know".
+}}
+
+As you regard the vagrant, two hooded figures&mdash;one quite tall, one quite
+short&mdash;rush past you down the street toward the docks; their faces are
+hidden, but they leave an impression in your mind.
+You spot the shorter figure tossing something small and dark against a nearby
 recessed doorway.
 
-/page
+\page
 
 ## To the Actor-Manager
 
