@@ -32,30 +32,6 @@ A
   unfortunate events. <br>
   Weapons: *Scalpel* (rapier), *Cat’s Claw* (main-gauche).
 
-### Actor-Manager
-- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
-  and sometimes annoying and hindering.
-  She wields a mean broom when she isn't talking or offering advice.
-- **TODO: TAVERN KEEP**
-- **TODO: GNOME CHILD IN RAGS**
-- **[One-Eyed Jukk](https://www.dndbeyond.com/characters/131216132)** &mdash; A
-  fence who bases his "operation" in the _Bloody Fist_ tavern.
-  He is human, and popular with the those wishing to unburden themselves of
-  weapons and armor.
-  He seems mostly harmless.
-- **City Watch** &mdash; The official keepers of the peace in Waterdeep.
-  Uniformed, orderly, and never far away.
-  Blades serve as constables, led by Swords and Swordcaptains.
-  Their tone can vary &mdash; some fair, some brusque, but all with authority.
-- **TODO: BREAK OUT CITY WATCH TO SEPARATE NPCS**
-- **TODO: JAIL GUARDS**
-- **TODO: STREET BEGGAR &mdash; SAME AS PREVIOUS GNOME CHILD**
-- **TODO: WASHERWOMAN**
-- **Kninckknack** &mdash; A Goblin Leader, clever and conniving.
-- **Minion** &mdash; A thuggish tall human underling of Knickknack.
-- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in respect and
-  some fear.
-
 ## Prologue
 
 Welcome, _Hail, and well met!_
@@ -142,6 +118,7 @@ recessed doorway.
 
 \page
 
+
 ## To the Actor-Manager
 
 You, the DM, are the **actor-manager** &mdash; a role drawn from the stages of
@@ -160,7 +137,30 @@ There are openings and hooks for continuing _Gaffard_ and _The Fey Pouncer_
 beyond this adventure, and character interactions with NPCs can set the stage
 for those.
 
-\page
+## Actor-Manager Characters
+
+- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
+  and sometimes annoying and hindering.
+  She wields a mean broom when she isn't talking or offering advice.
+- **TODO: TAVERN KEEP**
+- **TODO: GNOME CHILD IN RAGS**
+- **[One-Eyed Jukk](https://www.dndbeyond.com/characters/131216132)** &mdash; A
+  fence who bases his "operation" in the _Bloody Fist_ tavern.
+  He is human, and popular with the those wishing to unburden themselves of
+  weapons and armor.
+  He seems mostly harmless.
+- **City Watch** &mdash; The official keepers of the peace in Waterdeep.
+  Uniformed, orderly, and never far away.
+  Blades serve as constables, led by Swords and Swordcaptains.
+  Their tone can vary &mdash; some fair, some brusque, but all with authority.
+- **TODO: BREAK OUT CITY WATCH TO SEPARATE NPCS**
+- **TODO: JAIL GUARDS**
+- **TODO: STREET BEGGAR &mdash; SAME AS PREVIOUS GNOME CHILD**
+- **TODO: WASHERWOMAN**
+- **Kninckknack** &mdash; A Goblin Leader, clever and conniving.
+- **Minion** &mdash; A thuggish tall human underling of Knickknack.
+- **Laeral Silverhand** &mdash; Open Lord of Waterdeep, spoken of in respect and
+  some fear.
 
 ## Setting Maps and Places
 
@@ -176,26 +176,19 @@ for those.
 #### Three Pearls Nightclub
 > *Nearby festhall known for raucous burlesque.*
 
-\page
-
-## For the Actor-Manager
-
-_Players should not read beyond the earlier pages if they do not wish to spoil
-their enjoyment._ 
-
-### Among your many roles
+## Among your many roles
 
 (See [_Dramatis Personae_](#dramatis-personae) above, and further description
 and details in Appendix E.)
 
-#### The Landlady
+### The Landlady
 
 Mrs. Hattrick is annoying, and can be distracting or delaying.
 Play her up for comedic effect, but she is also helpful for neighborhood gossip,
 information on key NPCs, and helping players learn about Waterdeep.
 She knows the Dock Ward like the back of her hand.
 
-#### The Local Fence
+### The Local Fence
 
 One-Eyed Jukk is a connection to the criminal underworld of Waterdeep.
 He is discreet but will provide clues to characters at DC 15 for various skill
@@ -205,13 +198,13 @@ prices, though his provenance of his wares may be suspect and vary in quality.
 He leads a gang of street urchins and orphans, for example, the Gnome beggar
 child outside _The Bloody Fist_ acting as eyes and ears.
 
-#### The Beggar Child
+### The Beggar Child
 
 Play up the begging Gnome child outside _The Bloody Fist_ as pathetic and
 heart-warming for the soft-hearted.
 Really they are part of Jukk's network of spies and pickpockets.
 
-#### Minion
+### Minion
 
 A thug disguised by
 [Improved Disguise Self](https://www.dndbeyond.com/spells/2881127-improved-disguise-self)
@@ -224,7 +217,7 @@ You choose the underlying stats, combat style, and tactics:
  - [Gazer](https://www.dndbeyond.com/monsters/2560821-gazer) &mdash; focused
    on ranged magic
 
-#### Laeral Silverhand
+### Laeral Silverhand
 
 A _deus ex machina_, players should be strongly discouraged from attempting
 to manipulate her or challenging her.
@@ -239,7 +232,7 @@ overlook.
 
 \page
 
-## Act I &mdash; A Night on the Town, or The Catalyst
+## Act I &mdash; A Night on the Town, or The _Catalyst_
 
 **Scene 1 &mdash; Midnight on Snail Street**
 
@@ -282,7 +275,7 @@ Watch patrols may still be close by.
 
 \page
 
-## Act II &mdash; The Game is Afoot, or The Rising Action
+## Act II &mdash; The Game is Afoot, or The _Rising Action_
 
 Scenes may occur in any order:
 
@@ -349,7 +342,7 @@ even-spaced lines radiating.
 
 \page
 
-## Act III &mdash; All’s Well That Ends Well, or The Denouement
+## Act III &mdash; All’s Well That Ends Well, or The _Denouement_
 
 The outcome depends on the players’ choices &mdash; and whether they stole from the
 City Watch.
@@ -463,7 +456,7 @@ The City Watch (when they remember) look for you.
 
 \page
 
-### Epilogue
+## _Epilogue_
 
 Regardless of outcome:
 
