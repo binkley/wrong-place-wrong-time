@@ -608,178 +608,71 @@ Suggestions:
 
 ## Appendix E: NPCs
 
+### _Mrs. Hattrick_, a Landlady in Dust Alley
+
 {{note
-### Mrs. Hattrick, A Landlady in Dust Alley
-
-**TODO** Rewrite to match the linked monster sheet and stat block.
-
-**Medium Humanoid (Human), Lawful Neutral**
+**Medium Humanoid (Human), Neutral Good**
 
 ---
 
-**Armor Class** 11 (comfortable, practical clothing plus DEX bonus) <br>
-**Initiative** +3 (17) <br>
-**Hit Points** 5 (1d8) <br>
+**Armor Class** 11 (Black Widow's Dress) <br>
+**Initiative** +2 (12) <br>
+**Hit Points** 5 (1d4) <br>
 **Speed** 30 ft.
 
 ---
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 7 (-2)  | 12 (+1) | 10 (+0) | 12 (+1) | 14 (+2) | 9 (-1)  |
+| 7 (-2)  | 12 (+1) | 14 (+2) | 10 (+0) | 14 (+2) | 8 (-1)  |
 
 ---
 
-**Proficiency Bonus** +2 <br>
-**Saving Throws** Dex +1, Wis +2, Cha -1 <br>
-**Skills**: Insight +4, Persuasion +4, Perception +4  <br>
+**Saving Throws** Str -2, Dex +1, Con +2, Wis +2, Cha -1 <br>
+**Gear** Broom ([club](https://www.dndbeyond.com/equipment/5-club)), Black Widow's Dress, Mouth Harp ([signal whistle](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#SignalWhistle5CP)), Notebook ([book](https://www.dndbeyond.com/equipment/439-book)) <br>
 **Senses**: Passive Perception 14  <br>
-**Languages**: Common, Elvish <br>
-**Age**: 52 (hard to tell) <br>
-**Height**: 4'10" <br>
-**Weight**: 110 lbs.
-
----
-
-**Challenge**: 0 (XP 10; PB +2)
+**Languages**: Common <br>
+**CR** 0 (XP 10; PB +2) <br>
 }}
-
-## Gear
-
-Mrs. Hattrick carries her **notebook**, where she keeps a record of all
-tenants’ **rent payments**, and a **small knitting kit** for personal use,
-which she’s always fiddling with when she’s idle.
-
-She is often seen with her
-**[broom](https://www.dndbeyond.com/equipment/5-club)**, and tenants know to
-avoid her wild sweeping and deadly might with dust and spiders.
 
 ## Traits
 
-**Keen Observer**. Mrs. Hattrick has a **keen eye** for details and can notice
-discrepancies in behavior, such as **uneven rent payments** or **suspicious
-comings and goings**.
-She has advantage on
-[Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
-checks to detect **deception** or **suspicious activity** in her tenants.
+_**Neighborhood Gossip**_. Once per day, Mrs. Hattrick might provide a potentially useful rumor, lead, or piece of information about a nearby NPC or event. The DM chooses whether this is helpful, misleading, or both.
 
-**Persistent Reminder**.
-Mrs. Hattrick is always **checking up on her tenants**, and once a day, she
-will remind them about their **rent**.
-If rent is **late** for two consecutive days, she becomes **uncooperative**
-and may take actions to **pressure** tenants.
+_**Training**_. Mrs. Hattrick is a keen observer of people, and has proficiency with [rules]Advantage[rules] when using Insight. She keeps a close eye on her tenants and the neighborhood.
 
-**Nosey Neighbor**.
-Mrs. Hattrick can be **invasive**, and if the players let their guard down,
-she may try to **pry into their affairs**.
-She has disadvantage on Charisma checks against those she has already observed
-for a prolonged period of time.
+_**Mastery**_. Surprisingly good with a broom, she can use the Slow weapon mastery property.
 
 ## Actions
 
-**A Well-Timed Remark**.
-Mrs. Hattrick interrupts a conversation or action
-with an **unwanted opinion**, causing a creature within 30 feet of her to make
-a DC 13 Wisdom saving throw.
-On a failed save, the creature has **disadvantage** on its next D20 Test
-for a skill check or against a creature other than Mrs. Hattrick.
+_**Broom (club)**_. _Melee Attack Roll_: +2, reach 5 ft. _Hit_: 1 (1d4-2) Bludgeoning damage. On hit, the creature’s speed is reduced by 10 feet until the start of Mrs. Hattrick’s next turn.
 
-**Persistent Questioning**.
-Mrs. Hattrick asks a series of **invasive questions**.
-One creature within 10 feet must succeed on a DC 14 Charisma saving throw or
-be **charmed** by her for 1 minute.
-While charmed, the creature is compelled to **answer her questions**
-truthfully, including questions about personal details.
-Once the effect ends, the creature can attempt to deceive her if it wishes.
+## Bonus actions
 
-**Broom (Club)**. _Melee Attack Roll_: +2, reach 5 ft. Hit: 2 (1d4)
-Bludgeoning damage.
+_**Hairpin (dagger)**_. _Melee Attack Roll_: +1, reach 5 ft. _Hit_: 1 (1d4-2) Piercing damage.
 
 ## Reactions
 
-**"A Little Help Never Hurts"**.
-If Mrs. Hattrick notices the players struggling or in trouble, she will try to
-**offer unsolicited advice** that often doesn't help, but can create
-opportunities for **roleplay**.
-Once per day, she may provide a small **tidbit of gossip** or helpful
-observation that leads to a future plot hook (such as local rumors or a
-missing object).
+_**Unsolicited Advice**_. If characters are home, and players are struggling, she will turn up and offer helpful hints or advice. ("I couldn't help but notice that ...")
+
+_**Mouth Harp (signal whistle)**_. If trouble is brewing, she'll blow at the first opportunity to rouse the neighbors.
+
+## Description
+
+Mrs. Hattrick is your landlady, nosey and chatty, and mean with a broom, and always wearing her black widow's dress. Her gossip may sometimes provide useful information to you or to those investigating you.
+
+When facing thieves and those not paying rent, she might wield her broom and hairpin if needed, but prefers to criticize and complain -- surely your mother will hear about this. She is surprisingly spry.
+
+### Quirks
+
+She talks often wistfully of Mr. Hattrick, and refers to his opinions on matters. Oh, Mr. Hattrick now he was quite a character and a charmer; a shame about the accident.
+Keeps detailed ledgers of tenant infractions, and carries around a notebook where she scribbles in front of you.
 
 \page
 
-## Personality
-
-**Motivated by Efficiency**.
-Always looking to ensure everything is in order, especially when it comes to
-**rent payments**.
-
-**Charming**.
-While intrusive, Mrs. Hattrick can be surprisingly **charming** when needed,
-using her **charm** to get people to open up.
-
-**Unaware**.
-Often unaware of how **overbearing** she is; her actions are motivated by
-genuine concern but come off as condescending or humorous.
-
-**Nostalgic**.
-She often refers to "our departed dear Mr. Hattrick" or discusses events from
-decades ago as if you were there to witness them.
-
-## Example interactions
-
-**On Avoidance**.
-If the players actively avoid her, she might say:
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(loudly knocking at your door unexpectedly) <br>
-Just checking, making sure everything’s alright.
-Gracious, my apologies.
-Your bedposts are still creaky, it must keep you up at night.
-That needs some oiling!
-I’ll come back tomorrow around nuncheon.
-}}
-
-**Unhelpful gift**.
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-My dears, just leaving a small trinket.
-Our sweet Bulima who had this room before you left it behind.
-I wonder why she would do that?
-Young people these days have no sense, not like in my time.
-}}
-She leaves a small, unhelpful gift like a stuffed animal or knitted scarf.
-
-**Annoying remarks**.
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(To The Fey Pouncer) <br>
-Oh, my dear, I see you're still dressing like a child.
-You really should try something more mature... might help you look less
-suspicious on our fine streets.
-}}
-{{background-color:#e0e0e0,font-style:italic,padding:10px,border-radius:5px
-(To Gafford) <br>
-Aren't those boots are too _nice_ for a _city man_ as yourself, don’t you
-think?
-They'll get **dirty**!
-}}
-
-## Notes
-
-**Voice**.
-Mrs. Hattrick's voice is **shrill** when discussing **rules** but softens when
-offering personal advice.
-
-**Mannerisms**.
-She often **fiddles with her glasses** and can be seen **writing notes** in
-her book while observing her tenants.
-
-**Quirks**.
-She regularly **quotes old folk wisdom** but is often mistaken, leading to
-lighthearted and humorous interactions.
-
-\page
+### _Milton Cooper_, Barkeep of _The Bloody Fist_
 
 {{note
-### Milton Cooper, the Barkeep of _The Bloody Fist_
-
 **Medium Humanoid (Human), Lawful Neutral**
 
 ---
@@ -880,7 +773,7 @@ He does not share his name unless pressed.
 
 \page
 
-### One-Eyed Jukk (Rogue 3)
+### _One-Eyed Jukk_ (Rogue 3)
 - AC 13 (leather)
 - HP 18
 - Attack: Dagger +5 (1d4+3)
@@ -889,7 +782,7 @@ He does not share his name unless pressed.
 
 \page
 
-### Knickknack (Goblin Gang Leader)
+### _Knickknack_ (Goblin Gang Leader)
 - AC 15, HP 11
 - Nimble Escape, Disengage as Bonus Action
 - Shortbow or Scimitar
@@ -904,9 +797,9 @@ He does not share his name unless pressed.
 
 \page
 
-{{note
-### **Laeral Silverhand**, Open Lord of Waterdeep
+### _Laeral Silverhand_, Open Lord of Waterdeep
 
+{{note
 **Medium Humanoid (Human), Chaotic Good**
 
 ---
