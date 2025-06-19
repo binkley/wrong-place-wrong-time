@@ -87,8 +87,9 @@ Together you took a top-floor apartment in the down-at-heels _Dock
 Ward_&mdash;cheap, drafty, and hidden from official eyes though many flights
 up after a night's drinking.
 
-After a _long conversation_ with **Mrs. Hattrick**, your nosey landlady, you
-seek relief.
+After a _long conversation_ with **[Mrs.
+Hattrick](https://www.dndbeyond.com/monsters/5567169-mrs-hattrick)**, your
+nosey landlady, you seek relief.
 Everything is muddy or wet from the late afternoon rain, and through clouds a
 low, waning, gibbous moon shines pale yellow, dimly illuminating the street.
 A good night to spend in a festhall or tavern or both.
@@ -139,9 +140,10 @@ for those.
 
 ## Actor-Manager Characters
 
-- **Mrs. Hattrick** &mdash; The landlady in Dust Alley, humorous and helpful
-  and sometimes annoying and hindering.
-  She wields a mean broom when she isn't talking or offering advice.
+- **[Mrs. Hattrick](https://www.dndbeyond.com/monsters/5567169-mrs-hattrick)**
+  &mdash; The landlady in Dust Alley, humorous and helpful and sometimes
+  annoying and hindering.  She wields a mean broom when she isn't talking or
+  offering advice.
 - **TODO: TAVERN KEEP**
 - **TODO: GNOME CHILD IN RAGS**
 - **[One-Eyed Jukk](https://www.dndbeyond.com/characters/131216132)** &mdash; A
@@ -183,7 +185,10 @@ and details in Appendix E.)
 
 ### The Landlady
 
-Mrs. Hattrick is annoying, and can be distracting or delaying.
+[Mrs. Hattrick](https://www.dndbeyond.com/monsters/5567169-mrs-hattrick) is
+annoying, and can be distracting or delaying.
+But she can provide useful gossip if characters take time to listen and guide
+the conversation.
 Play her up for comedic effect, but she is also helpful for neighborhood gossip,
 information on key NPCs, and helping players learn about Waterdeep.
 She knows the Dock Ward like the back of her hand.
@@ -605,6 +610,8 @@ Suggestions:
 
 {{note
 ### Mrs. Hattrick, A Landlady in Dust Alley
+
+**TODO** Rewrite to match the linked monster sheet and stat block.
 
 **Medium Humanoid (Human), Lawful Neutral**
 

@@ -85,8 +85,9 @@ Together you took a top-floor apartment in the down-at-heels _Dock
 Ward_&mdash;cheap, drafty, and hidden from official eyes though many flights
 up after a night's drinking.
 
-After a _long conversation_ with **Mrs. Hattrick**, your nosey landlady, you
-seek relief.
+After a _long conversation_ with **[Mrs.
+Hattrick](https://www.dndbeyond.com/monsters/5567169-mrs-hattrick)**, your
+nosey landlady, you seek relief.
 Everything is muddy or wet from the late afternoon rain, and through clouds a
 low, waning, gibbous moon shines pale yellow, dimly illuminating the street.
 A good night to spend in a festhall or tavern or both.
