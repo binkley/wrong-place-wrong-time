@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Uncial+Antiqua">
+
 # Wrong Place, Wrong Time <br> *(Swords in Faerûn, Part I)*
 <!--
 NOTES:
@@ -14,6 +16,7 @@ TODO:
 -->
 A
 ### Thrilling and Dangerous Two-Player One-Shot Adventure for D&amp;D 5e In Three Acts Based on Heroes of Nehwon Set in Waterdeep the _City of Splendor_
+
 
 ## _Dramatis Personae_
 
@@ -34,7 +37,7 @@ A
 
 ## Prologue
 
-Welcome, _Hail, and well met!_
+**_Welcome, Hail, and well met!_**
 
 This crossover adventure draws inspiration from the legendary stories of
 **Fafhrd and the Gray Mouser**&mdash;classic Swords &amp; Sorcery
@@ -52,7 +55,6 @@ bond of friendship while avoiding the City Watch.
 The adventure style is a mixture of "sandbox" and "railroad":
 There are plot points where the DM may guide you, but _the world is your
 mollusc_.
-Don't feel limited!
 
 ## Setting & Scenario
 
@@ -344,6 +346,14 @@ If characters take the
 action ("I inspect the pages", "I hold the pages to light", etc), they notice
 a light watermark in the top-right corner of a circle with 10 short
 even-spaced lines radiating.
+
+\column
+
+The non-blank sheet reads:
+{{note
+{{font-family:"Uncial Antiqua" Bob the Builder}}
+}}
+
 
 \page
 
@@ -923,4 +933,4 @@ Laeral regains spent legendary actions at the start of her turn.
 ## Notes for the Actor-Manager (DM)
 - **Tone**: Laeral should be **grand**, yet **controlled**, speaking with the
   weight of her station and the **wisdom of years**.
-  She doesn’t need to raise her voice to command respect.
+  She doesn’t raise her voice to command respect.
